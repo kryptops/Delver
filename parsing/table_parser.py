@@ -4,7 +4,7 @@ from datetime import datetime
 ###
 # There are multiple elements used in standard delver documentation that need to be parsed into json objects. This script parses standard tables into json.
 # Put any tables you want to parse into .\\input\\table.txt, separated by a line matching the format DelverTableName.<name of table, underline separated>
-# Run the script. It should delete table.txt when it's done.
+# Run the script. 
 ###
 
 jDict = {}
@@ -90,14 +90,15 @@ def mkJsonTableFacsimile(tableNameProp,tableData):
         tableCandidateFields = tableLine.split("  ")
         tableFields = []
         tDict = {}
+
         for lineCandidateField in tableCandidateFields:
             if lineCandidateField != '':
                 tableFields.append(lineCandidateField)
         
-        for tField in tableFields:
+        for lCFIndex in range(len(tableHeaderParsedFields)):
             try:
-                lCFIndex = tableFields.index(tField)
-                tDict[tableHeaderParsedFields[lCFIndex]] = tField.replace("\t","")
+
+                tDict[tableHeaderParsedFields[lCFIndex]] = tableFields[lCFIndex].replace("\t","").strip()
             except:
                 print("[!] ERROR! Unparsable line!")
                 print("Error Detail...")

@@ -6,19 +6,19 @@
         },
         {
             "Attribute Value": "32-43",
-            "Dice to Roll": " d6"
+            "Dice to Roll": "d6"
         },
         {
             "Attribute Value": "44-55",
-            "Dice to Roll": " d8"
+            "Dice to Roll": "d8"
         },
         {
             "Attribute Value": "56-67",
-            "Dice to Roll": " d10"
+            "Dice to Roll": "d10"
         },
         {
             "Attribute Value": "68-85",
-            "Dice to Roll": " d12"
+            "Dice to Roll": "d12"
         }
     ],
     "attribute_modifiers_precalculated": [
@@ -27,7 +27,7 @@
             "Value": "0-4"
         },
         {
-            "Modifier": " 1",
+            "Modifier": "1",
             "Value": "5-14"
         },
         {
@@ -95,32 +95,32 @@
         },
         {
             "ETR": "10",
-            "Example": " Murk Stalker",
+            "Example": "Murk Stalker",
             "Milestone": "Milestone 5"
         },
         {
             "ETR": "11",
-            "Example": " Albino Drake",
+            "Example": "Albino Drake",
             "Milestone": "Milestone 6"
         },
         {
             "ETR": "13",
-            "Example": " Shipbreaker",
+            "Example": "Shipbreaker",
             "Milestone": "Milestone 7"
         },
         {
             "ETR": "14",
-            "Example": " Thunderbird",
+            "Example": "Thunderbird",
             "Milestone": "Milestone 8"
         },
         {
             "ETR": "17",
-            "Example": " Terrorbat",
+            "Example": "Terrorbat",
             "Milestone": "Milestone 9"
         },
         {
-            "ETR": " 19",
-            "Example": " Basilisk",
+            "ETR": "19",
+            "Example": "Basilisk",
             "Milestone": "Milestone 10"
         }
     ],
@@ -128,7 +128,7 @@
         {
             "Class": "Warrior",
             "Description": "Frontline combat class",
-            "Primary Attribute": " For or Phy"
+            "Primary Attribute": "For or Phy"
         },
         {
             "Class": "Mage",
@@ -137,13 +137,13 @@
         },
         {
             "Class": "Rogue",
-            "Description": " Damage and agility class",
-            "Primary Attribute": " Phy"
+            "Description": "Damage and agility class",
+            "Primary Attribute": "Phy"
         },
         {
             "Class": "Scholar",
             "Description": "Skill and support class",
-            "Primary Attribute": " Int or Cha"
+            "Primary Attribute": "Int or Cha"
         }
     ],
     "combat_action_detail": [
@@ -163,17 +163,17 @@
             "Description": "Cast a spell"
         },
         {
-            "AP Cost": " 1",
+            "AP Cost": "1",
             "Actions in Combat": "Counter",
             "Description": "React to another action"
         },
         {
-            "AP Cost": " 2",
+            "AP Cost": "2",
             "Actions in Combat": "Dodge",
             "Description": "Increase armor value by 10"
         },
         {
-            "AP Cost": " 2",
+            "AP Cost": "2",
             "Actions in Combat": "Prepare",
             "Description": "Allows you to use a 2 AP cost action as a counter action"
         },
@@ -188,7 +188,7 @@
             "Description": "Attempt to evade detection with a stealth check"
         },
         {
-            "AP Cost": " 1",
+            "AP Cost": "1",
             "Actions in Combat": "Use",
             "Description": "Draw, pick up, or put up a weapon."
         },
@@ -227,19 +227,19 @@
         },
         {
             "Damage Type": "Lightning",
-            "Description": " Damage inflicted by electricity"
+            "Description": "Damage inflicted by electricity"
         },
         {
             "Damage Type": "Thunder",
-            "Description": " Damage inflicted by loud sounds"
+            "Description": "Damage inflicted by loud sounds"
         },
         {
             "Damage Type": "Force",
-            "Description": " Damage inflicted by pressure"
+            "Description": "Damage inflicted by pressure"
         },
         {
             "Damage Type": "Psychic",
-            "Description": " Damage inflicted on or in the mind"
+            "Description": "Damage inflicted on or in the mind"
         },
         {
             "Damage Type": "Poison",
@@ -247,7 +247,7 @@
         },
         {
             "Damage Type": "Radiant",
-            "Description": " Damage inflicted by light"
+            "Description": "Damage inflicted by light"
         }
     ],
     "combat_metallurgical_vulnerability": [
@@ -265,13 +265,13 @@
         },
         {
             "Entity Type": "Angel",
-            "Metallurgical Vulnerability": " Lead"
+            "Metallurgical Vulnerability": "Lead"
         }
     ],
     "condition_exhaustion_cause_detail": [
         {
             "Cause": "Thirst",
-            "Interval": " 1 day"
+            "Interval": "1 day"
         },
         {
             "Cause": "Sleep deprivation",
@@ -279,11 +279,11 @@
         },
         {
             "Cause": "Forced march",
-            "Interval": " 3 days"
+            "Interval": "3 days"
         },
         {
             "Cause": "Hunger",
-            "Interval": " 7 days"
+            "Interval": "7 days"
         }
     ],
     "condition_insanity_effect_detail": [
@@ -296,20 +296,20 @@
             "Result": "2-5"
         },
         {
-            "Description": " The target is afflicted by anxiety, and must roll a save against its resolve skill when it attempts to take an action. If it fails, the action point is consumed but the action does not occur.",
-            "Result": " 6-20"
+            "Description": "The target is afflicted by anxiety, and must roll a save against its resolve skill when it attempts to take an action. If it fails, the action point is consumed but the action does not occur.",
+            "Result": "6-20"
         },
         {
             "Description": "The target takes 2d10 psychic damage. Their maximum health is reduced by the same amount.",
-            "Result": " 21-30"
+            "Result": "21-30"
         },
         {
             "Description": "The target is unable to speak.",
-            "Result": " 31-50"
+            "Result": "31-50"
         },
         {
             "Description": "The target is afflicted by hallucinations, and must roll a save against its intuition skill. If the target fails, it must attempt to attack the nearest entity within 10 feet.",
-            "Result": " 51-60"
+            "Result": "51-60"
         },
         {
             "Description": "The target is afflicted by seizures. Whenever it starts its turn it must roll a save against its conditioning skill. If it fails it is incapacitated until the start of its next turn.",
@@ -331,43 +331,43 @@
     "gear_armor_detail": [
         {
             "Armor": "Hide",
-            "Keywords": " Simple",
-            "Value": " 1"
+            "Keywords": "Simple",
+            "Value": "1"
         },
         {
             "Armor": "Gambeson",
-            "Keywords": " Simple",
-            "Value": " 2"
+            "Keywords": "Simple",
+            "Value": "2"
         },
         {
             "Armor": "Leather",
-            "Keywords": " Simple",
+            "Keywords": "Simple",
             "Value": "3"
         },
         {
             "Armor": "Scale Mail",
-            "Keywords": " Light",
-            "Value": " 4"
+            "Keywords": "Light",
+            "Value": "4"
         },
         {
             "Armor": "Cuirass",
-            "Keywords": " Light",
+            "Keywords": "Light",
             "Value": "5"
         },
         {
             "Armor": "Half Plate",
-            "Keywords": " Light",
-            "Value": " 7"
+            "Keywords": "Light",
+            "Value": "7"
         },
         {
             "Armor": "Chainmail",
-            "Keywords": " Heavy (Stealth)",
+            "Keywords": "Heavy (Stealth)",
             "Value": "9"
         },
         {
             "Armor": "Lamellar",
             "Keywords": "Heavy (Stealth)",
-            "Value": " 10"
+            "Value": "10"
         },
         {
             "Armor": "Plate",
@@ -376,23 +376,23 @@
         },
         {
             "Armor": "Sallet",
-            "Keywords": " Simple, Additional",
-            "Value": " 1"
+            "Keywords": "Simple, Additional",
+            "Value": "1"
         },
         {
             "Armor": "Great Helm",
-            "Keywords": " Simple, Additional",
-            "Value": " 2"
+            "Keywords": "Simple, Additional",
+            "Value": "2"
         },
         {
             "Armor": "Close Helm",
-            "Keywords": " Heavy (Perception), Additional",
-            "Value": " 3"
+            "Keywords": "Heavy (Perception), Additional",
+            "Value": "3"
         },
         {
             "Armor": "Shield",
-            "Keywords": " Simple, Additional",
-            "Value": " 2"
+            "Keywords": "Simple, Additional",
+            "Value": "2"
         }
     ],
     "gear_weapon_detail": [
@@ -409,31 +409,31 @@
             "Hands": "2",
             "Keywords": "Simple, heavy",
             "Range": "--",
-            "Reach": " 5",
+            "Reach": "5",
             "Weapon": "War club"
         },
         {
             "Damage": "1d6 piercing",
             "Hands": "1",
             "Keywords": "Simple, light, thrown",
-            "Range": " 30",
-            "Reach": " 5",
+            "Range": "30",
+            "Reach": "5",
             "Weapon": "Dagger"
         },
         {
             "Damage": "2d4 slashing",
             "Hands": "2",
-            "Keywords": " Simple, heavy",
-            "Range": " --",
+            "Keywords": "Simple, heavy",
+            "Range": "--",
             "Reach": "10",
             "Weapon": "Scythe"
         },
         {
             "Damage": "2d4 slashing",
-            "Hands": " 1",
+            "Hands": "1",
             "Keywords": "Simple, light, fortitude, thrown",
-            "Range": " 20",
-            "Reach": " 5",
+            "Range": "20",
+            "Reach": "5",
             "Weapon": "Handaxe"
         },
         {
@@ -448,14 +448,14 @@
             "Damage": "2d4 slashing",
             "Hands": "1",
             "Keywords": "Simple, light",
-            "Range": " --",
+            "Range": "--",
             "Reach": "5",
             "Weapon": "Sickle"
         },
         {
             "Damage": "1d8 bludgeoning",
             "Hands": "2",
-            "Keywords": " Simple, light",
+            "Keywords": "Simple, light",
             "Range": "--",
             "Reach": "10",
             "Weapon": "Quarterstaff"
@@ -470,9 +470,9 @@
         },
         {
             "Damage": "1d6 piercing",
-            "Hands": " 2",
-            "Keywords": " Simple, fortitude, light, thrown",
-            "Range": " --",
+            "Hands": "2",
+            "Keywords": "Simple, fortitude, light, thrown",
+            "Range": "--",
             "Reach": "10",
             "Weapon": "Spear"
         },
@@ -480,7 +480,7 @@
             "Damage": "1d6 piercing",
             "Hands": "2",
             "Keywords": "Simple, light",
-            "Range": " 200",
+            "Range": "200",
             "Reach": "--",
             "Weapon": "Shortbow"
         },
@@ -488,46 +488,46 @@
             "Damage": "1d6 piercing",
             "Hands": "1",
             "Keywords": "Simple, light",
-            "Range": " 45",
-            "Reach": " --",
+            "Range": "45",
+            "Reach": "--",
             "Weapon": "Blowdart"
         },
         {
             "Damage": "1d6 bludgeoning",
-            "Hands": " 1",
+            "Hands": "1",
             "Keywords": "Simple, light",
             "Range": "90",
-            "Reach": " --",
+            "Reach": "--",
             "Weapon": "Sling"
         },
         {
             "Damage": "1d6 piercing",
             "Hands": "2",
             "Keywords": "Simple, light",
-            "Range": " 250",
+            "Range": "250",
             "Reach": "--",
             "Weapon": "Crossbow"
         },
         {
             "Damage": "1d8 bludgeoning",
-            "Hands": " 1",
-            "Keywords": " Light",
+            "Hands": "1",
+            "Keywords": "Light",
             "Range": "--",
             "Reach": "10",
             "Weapon": "Flail"
         },
         {
             "Damage": "3d4 slashing",
-            "Hands": " 1|2",
+            "Hands": "1|2",
             "Keywords": "Heavy",
-            "Range": " --",
+            "Range": "--",
             "Reach": "5",
             "Weapon": "Battleaxe"
         },
         {
             "Damage": "1d10 piercing",
             "Hands": "2",
-            "Keywords": " Heavy",
+            "Keywords": "Heavy",
             "Range": "--",
             "Reach": "10",
             "Weapon": "Glaive"
@@ -536,14 +536,14 @@
             "Damage": "3d4 slashing",
             "Hands": "2",
             "Keywords": "Heavy",
-            "Range": " --",
+            "Range": "--",
             "Reach": "5",
             "Weapon": "Greataxe"
         },
         {
             "Damage": "3d4 slashing/1d10 piercing",
             "Hands": "2",
-            "Keywords": " Heavy",
+            "Keywords": "Heavy",
             "Range": "--",
             "Reach": "10",
             "Weapon": "Billhook"
@@ -552,29 +552,29 @@
             "Damage": "3d4 slashing",
             "Hands": "2",
             "Keywords": "Heavy",
-            "Range": " --",
+            "Range": "--",
             "Reach": "5",
             "Weapon": "Greatsword"
         },
         {
             "Damage": "3d4 slashing",
-            "Hands": " 2",
-            "Keywords": " Heavy",
-            "Range": " --",
+            "Hands": "2",
+            "Keywords": "Heavy",
+            "Range": "--",
             "Reach": "10",
             "Weapon": "Halberd"
         },
         {
             "Damage": "1d10 piercing",
-            "Hands": " 2",
-            "Keywords": " Heavy",
+            "Hands": "2",
+            "Keywords": "Heavy",
             "Range": "--",
             "Reach": "10",
             "Weapon": "Lance"
         },
         {
             "Damage": "1d10 piercing",
-            "Hands": " 1|2",
+            "Hands": "1|2",
             "Keywords": "Heavy, physique",
             "Range": "--",
             "Reach": "5",
@@ -584,7 +584,7 @@
             "Damage": "3d4 slashing",
             "Hands": "1|2",
             "Keywords": "Heavy, physique",
-            "Range": " --",
+            "Range": "--",
             "Reach": "5",
             "Weapon": "Katana"
         },
@@ -599,7 +599,7 @@
         {
             "Damage": "1d10 piercing",
             "Hands": "2",
-            "Keywords": " Heavy",
+            "Keywords": "Heavy",
             "Range": "--",
             "Reach": "15",
             "Weapon": "Pike"
@@ -616,21 +616,21 @@
             "Damage": "1d6 slashing",
             "Hands": "1",
             "Keywords": "Light, physique",
-            "Range": " --",
+            "Range": "--",
             "Reach": "5",
             "Weapon": "Shortsword"
         },
         {
             "Damage": "1d10 piercing",
-            "Hands": " 1|2",
-            "Keywords": " Heavy, physique, thrown",
+            "Hands": "1|2",
+            "Keywords": "Heavy, physique, thrown",
             "Range": "80",
-            "Reach": " 10",
+            "Reach": "10",
             "Weapon": "Trident"
         },
         {
             "Damage": "1d10 piercing",
-            "Hands": " 1|2",
+            "Hands": "1|2",
             "Keywords": "Heavy",
             "Range": "--",
             "Reach": "5",
@@ -638,7 +638,7 @@
         },
         {
             "Damage": "2d6 bludgeoning",
-            "Hands": " 1",
+            "Hands": "1",
             "Keywords": "Fortitude",
             "Range": "--",
             "Reach": "5",
@@ -654,7 +654,7 @@
         },
         {
             "Damage": "1d10 piercing",
-            "Hands": " 2",
+            "Hands": "2",
             "Keywords": "Heavy",
             "Range": "350",
             "Reach": "--",
@@ -662,7 +662,7 @@
         },
         {
             "Damage": "1d6 piercing",
-            "Hands": " 1",
+            "Hands": "1",
             "Keywords": "Light, physique, thrown",
             "Range": "100",
             "Reach": "--",
@@ -673,15 +673,15 @@
             "Hands": "1",
             "Keywords": "Light, Gun",
             "Range": "60",
-            "Reach": " --",
+            "Reach": "--",
             "Weapon": "Pistol"
         },
         {
             "Damage": "1d20 piercing",
-            "Hands": " 1",
+            "Hands": "1",
             "Keywords": "Heavy, Gun",
             "Range": "90",
-            "Reach": " --",
+            "Reach": "--",
             "Weapon": "Wheellock"
         },
         {
@@ -695,114 +695,139 @@
     ],
     "item_quality_bonus": [
         {
-            "Bonus": " 0",
+            "Bonus": "0",
             "Quality": "Basic",
-            "Rarity": " Common"
+            "Rarity": "Common"
         },
         {
-            "Bonus": " 1",
+            "Bonus": "1",
             "Quality": "Standard",
             "Rarity": "Common"
         },
         {
-            "Bonus": " 2",
+            "Bonus": "2",
             "Quality": "Excellent",
-            "Rarity": " Uncommon"
+            "Rarity": "Uncommon"
         },
         {
-            "Bonus": " 3",
+            "Bonus": "3",
             "Quality": "Superior",
             "Rarity": "Rare"
         },
         {
-            "Bonus": " 4",
+            "Bonus": "4",
             "Quality": "Heirloom",
             "Rarity": "Rare"
         },
         {
-            "Bonus": " 5",
+            "Bonus": "5",
             "Quality": "Masterwork",
             "Rarity": "Singular"
         },
         {
-            "Bonus": " 6",
+            "Bonus": "6",
             "Quality": "Legendary",
-            "Rarity": " Singular"
+            "Rarity": "Singular"
         }
     ],
     "mystic_spell_table": [
         {
-            "1st": " 1",
+            "1st": "1",
             "2nd": "1",
             "3rd": "--",
+            "4th": "--",
+            "5th": "--",
+            "6th": "--",
             "Milestone": "Milestone 0"
         },
         {
-            "1st": " 1",
+            "1st": "1",
             "2nd": "2",
             "3rd": "--",
             "4th": "\u00e2\u20ac\u201d",
+            "5th": "--",
+            "6th": "--",
             "Milestone": "Milestone 1"
         },
         {
-            "1st": " 1",
+            "1st": "1",
             "2nd": "2",
             "3rd": "1",
             "4th": "--",
+            "5th": "--",
+            "6th": "--",
             "Milestone": "Milestone 2"
         },
         {
-            "1st": " 1",
+            "1st": "1",
             "2nd": "2",
+            "3rd": "2",
             "4th": "--",
+            "5th": "--",
+            "6th": "--",
             "Milestone": "Milestone 3"
         },
         {
-            "1st": " 1",
+            "1st": "1",
             "2nd": "2",
+            "3rd": "2",
             "4th": "1",
             "5th": "--",
+            "6th": "--",
             "Milestone": "Milestone 4"
         },
         {
-            "1st": " 2",
+            "1st": "2",
             "2nd": "2",
+            "3rd": "2",
+            "4th": "2",
             "5th": "1",
             "6th": "--",
             "Milestone": "Milestone 5"
         },
         {
-            "1st": " 2",
+            "1st": "2",
             "2nd": "2",
+            "3rd": "2",
+            "4th": "2",
             "5th": "1",
             "6th": "--",
             "Milestone": "Milestone 6"
         },
         {
-            "1st": " 2",
+            "1st": "2",
             "2nd": "2",
             "3rd": "3",
+            "4th": "2",
             "5th": "1",
             "6th": "--",
             "Milestone": "Milestone 7"
         },
         {
-            "1st": " 2",
+            "1st": "2",
             "2nd": "2",
             "3rd": "3",
+            "4th": "3",
+            "5th": "2",
             "6th": "--",
             "Milestone": "Milestone 8"
         },
         {
-            "1st": " 2",
+            "1st": "2",
             "2nd": "2",
             "3rd": "3",
+            "4th": "3",
+            "5th": "3",
             "6th": "1",
             "Milestone": "Milestone 9"
         },
         {
             "1st": "2",
+            "2nd": "2",
             "3rd": "3",
+            "4th": "3",
+            "5th": "3",
+            "6th": "2",
             "Milestone": "Milestone 10"
         }
     ],
@@ -813,24 +838,24 @@
             "Proficiency": "Smithing or Artifice"
         },
         {
-            "Equipment": " Carpenter\u00e2\u20ac\u2122s tools",
+            "Equipment": "Carpenter's tools",
             "Occupation": "Carpenter",
             "Proficiency": "Carpentry"
         },
         {
             "Equipment": "Cooking utensils",
             "Occupation": "Cook",
-            "Proficiency": " Cooking and a Language"
+            "Proficiency": "Cooking and a Language"
         },
         {
-            "Equipment": " Tinkerer's tools",
+            "Equipment": "Tinkerer's tools",
             "Occupation": "Tinkerer",
-            "Proficiency": " Artifice and a Language"
+            "Proficiency": "Artifice and a Language"
         },
         {
-            "Equipment": " Sewing kit",
+            "Equipment": "Sewing kit",
             "Occupation": "Tailor",
-            "Proficiency": " Sewing and a Language"
+            "Proficiency": "Sewing and a Language"
         },
         {
             "Equipment": "Simple weapon (pick 1)",
@@ -840,7 +865,7 @@
         {
             "Equipment": "Simple weapon (pick 1)",
             "Occupation": "Sailor",
-            "Proficiency": " Sailing and a Language"
+            "Proficiency": "Sailing and a Language"
         },
         {
             "Equipment": "Lockpicks",
@@ -850,17 +875,17 @@
         {
             "Equipment": "A ledger, quill, ink",
             "Occupation": "Academic",
-            "Proficiency": " Literacy and History"
+            "Proficiency": "Literacy and History"
         },
         {
-            "Equipment": " --",
+            "Equipment": "--",
             "Occupation": "Monk",
-            "Proficiency": " Philosophy and Religion"
+            "Proficiency": "Philosophy and Religion"
         },
         {
-            "Equipment": " Symbol of office",
+            "Equipment": "Symbol of office",
             "Occupation": "Priest",
-            "Proficiency": " Literacy and Religion"
+            "Proficiency": "Literacy and Religion"
         },
         {
             "Equipment": "Simple weapon (pick 1)",
@@ -868,39 +893,39 @@
             "Proficiency": "Athletics (pick 1)"
         },
         {
-            "Equipment": " Tinderbox",
+            "Equipment": "Tinderbox",
             "Occupation": "Lumberjack",
-            "Proficiency": " Woodcutting"
+            "Proficiency": "Woodcutting"
         },
         {
             "Equipment": "Brewing supplies",
             "Occupation": "Brewer",
-            "Proficiency": " Brewing and a Language"
+            "Proficiency": "Brewing and a Language"
         },
         {
-            "Equipment": " --",
+            "Equipment": "--",
             "Occupation": "Politician",
-            "Proficiency": " History or Manipulation"
+            "Proficiency": "History or Manipulation"
         },
         {
-            "Equipment": " --",
+            "Equipment": "--",
             "Occupation": "Orator",
-            "Proficiency": " History or Persuasion"
+            "Proficiency": "History or Persuasion"
         },
         {
             "Equipment": "5 copper",
             "Occupation": "Merchant",
-            "Proficiency": " Literacy or Persuasion"
+            "Proficiency": "Literacy or Persuasion"
         },
         {
-            "Equipment": " Quarterstaff",
+            "Equipment": "Quarterstaff",
             "Occupation": "Wanderer",
-            "Proficiency": " Language (pick 2)"
+            "Proficiency": "Language (pick 2)"
         },
         {
             "Equipment": "Simple weapon (pick 1)",
             "Occupation": "Holy Warrior",
-            "Proficiency": " Religion or Athletics (pick 1)"
+            "Proficiency": "Religion or Athletics (pick 1)"
         },
         {
             "Equipment": "Simple weapon (pick 1)",
@@ -908,79 +933,79 @@
             "Proficiency": "Martial (pick 1)"
         },
         {
-            "Equipment": " Forger\u00e2\u20ac\u2122s tools",
+            "Equipment": "Forger's tools",
             "Occupation": "Charlatan",
             "Proficiency": "Social (pick 1)"
         },
         {
-            "Equipment": " Herbalist\u00e2\u20ac\u2122s tools",
+            "Equipment": "Herbalist's tools",
             "Occupation": "Healer",
-            "Proficiency": " Herbalism or Medicine"
+            "Proficiency": "Herbalism or Medicine"
         },
         {
-            "Equipment": "Cartographer\u00e2\u20ac\u2122s tools",
+            "Equipment": "Cartographer's tools",
             "Occupation": "Cartographer",
-            "Proficiency": " Cartography and a Language"
+            "Proficiency": "Cartography and a Language"
         }
     ],
     "pack_detail": [
         {
-            "Contents": " Tinderbox, 5 torches, 5 copper, bedroll, 5 days worth of rations",
-            "Pack": "Itinerant\u00e2\u20ac\u2122s Pack"
+            "Contents": "Tinderbox, 5 torches, 5 copper, bedroll, 5 days worth of rations",
+            "Pack": "Itinerant's Pack"
         },
         {
             "Contents": "Lantern, oil flask (5 lantern uses), bedroll, tent, 10 copper",
-            "Pack": "Merchant\u00e2\u20ac\u2122s Pack"
+            "Pack": "Merchant's Pack"
         },
         {
             "Contents": "5 candles, 5 copper, 1 healing potion, bedroll, ledger, ink, and quill",
-            "Pack": "Hermit\u00e2\u20ac\u2122s Pack"
+            "Pack": "Hermit's Pack"
         },
         {
             "Contents": "5 torches, 5 copper, 3 days worth of rations, bedroll, pitons, 60 feet of rope",
-            "Pack": "Delver\u00e2\u20ac\u2122s Pack"
+            "Pack": "Delver's Pack"
         }
     ],
     "progression_task_bymilestone": [
         {
             "Milestone": "Milestone 0",
-            "Task": " Select 2 primary class features"
+            "Task": "Select 2 primary class features"
         },
         {
             "Milestone": "Milestone 1",
-            "Task": " Select secondary class feature"
+            "Task": "Select secondary class feature"
         },
         {
             "Milestone": "Milestone 2",
-            "Task": " Select optional feature OR skill score increase"
+            "Task": "Select optional feature OR skill score increase"
         },
         {
             "Milestone": "Milestone 3",
-            "Task": " --"
+            "Task": "--"
         },
         {
             "Milestone": "Milestone 4",
-            "Task": " Select optional feature OR skill score increase"
+            "Task": "Select optional feature OR skill score increase"
         },
         {
             "Milestone": "Milestone 5",
-            "Task": " Select tertiary class feature"
+            "Task": "Select tertiary class feature"
         },
         {
             "Milestone": "Milestone 6",
-            "Task": " Select optional feature OR skill score increase"
+            "Task": "Select optional feature OR skill score increase"
         },
         {
             "Milestone": "Milestone 7",
-            "Task": " Skill cap increases from 85 to 95"
+            "Task": "Skill cap increases from 85 to 95"
         },
         {
             "Milestone": "Milestone 8",
-            "Task": " Select optional feature OR skill score increase"
+            "Task": "Select optional feature OR skill score increase"
         },
         {
             "Milestone": "Milestone 9",
-            "Task": " --"
+            "Task": "--"
         },
         {
             "Milestone": "Milestone 10",
@@ -989,43 +1014,43 @@
     ],
     "progression_xp_map": [
         {
-            "Experience": " 0",
+            "Experience": "0",
             "Milestone": "Milestone 0"
         },
         {
-            "Experience": " 2500",
+            "Experience": "2500",
             "Milestone": "Milestone 1"
         },
         {
-            "Experience": " 5000",
+            "Experience": "5000",
             "Milestone": "Milestone 2"
         },
         {
-            "Experience": " 7500",
+            "Experience": "7500",
             "Milestone": "Milestone 3"
         },
         {
-            "Experience": " 12500",
+            "Experience": "12500",
             "Milestone": "Milestone 4"
         },
         {
-            "Experience": " 20000",
+            "Experience": "20000",
             "Milestone": "Milestone 5"
         },
         {
-            "Experience": " 32500",
+            "Experience": "32500",
             "Milestone": "Milestone 6"
         },
         {
-            "Experience": " 52500",
+            "Experience": "52500",
             "Milestone": "Milestone 7"
         },
         {
-            "Experience": " 85000",
+            "Experience": "85000",
             "Milestone": "Milestone 8"
         },
         {
-            "Experience": " 137500",
+            "Experience": "137500",
             "Milestone": "Milestone 9"
         },
         {
@@ -1035,19 +1060,19 @@
     ],
     "race_detail": [
         {
-            "Feature": " Additional skill, half proficiency",
+            "Feature": "Additional skill, half proficiency",
             "Race": "Human"
         },
         {
-            "Feature": " Darksight, 30 ft.",
+            "Feature": "Darksight, 30 ft.",
             "Race": "Elf"
         },
         {
-            "Feature": " Additional skill, half proficiency",
+            "Feature": "Additional skill, half proficiency",
             "Race": "Orc"
         },
         {
-            "Feature": " Resistant to damage from spells",
+            "Feature": "Resistant to damage from spells",
             "Race": "Dragonkin"
         },
         {
@@ -1063,7 +1088,7 @@
             "Race": "Halfling"
         },
         {
-            "Feature": " Darksight, 60 ft.",
+            "Feature": "Darksight, 60 ft.",
             "Race": "Dwarf"
         },
         {
@@ -1071,15 +1096,15 @@
             "Race": "Pitspawn"
         },
         {
-            "Feature": " Additional skill, half proficiency",
+            "Feature": "Additional skill, half proficiency",
             "Race": "Dryad"
         },
         {
-            "Feature": " Resistant to poison damage",
+            "Feature": "Resistant to poison damage",
             "Race": "Myconid"
         },
         {
-            "Feature": " Movement speed 35",
+            "Feature": "Movement speed 35",
             "Race": "Cyclops"
         },
         {
@@ -1102,11 +1127,11 @@
         },
         {
             "Milestone": "Poor",
-            "Nightly Rate": " 5-8 copper pieces a night"
+            "Nightly Rate": "5-8 copper pieces a night"
         },
         {
             "Milestone": "Modest",
-            "Nightly Rate": " 10-15 copper pieces a night"
+            "Nightly Rate": "10-15 copper pieces a night"
         },
         {
             "Milestone": "Comfortable",
@@ -1159,7 +1184,7 @@
             "Milestone": "Milestone 9"
         },
         {
-            "Daily Rate": " 1 gold piece per day",
+            "Daily Rate": "1 gold piece per day",
             "Milestone": "Milestone 10"
         }
     ],
@@ -1169,7 +1194,7 @@
             "Quality": "Basic"
         },
         {
-            "Cost": " 10-20 copper pieces",
+            "Cost": "10-20 copper pieces",
             "Quality": "Standard"
         },
         {
@@ -1177,15 +1202,15 @@
             "Quality": "Excellent"
         },
         {
-            "Cost": " 1-2 silver pieces",
+            "Cost": "1-2 silver pieces",
             "Quality": "Superior"
         },
         {
-            "Cost": " 10-30 silver pieces",
+            "Cost": "10-30 silver pieces",
             "Quality": "Heirloom"
         },
         {
-            "Cost": " 30-50 gold pieces",
+            "Cost": "30-50 gold pieces",
             "Quality": "Masterwork"
         },
         {
@@ -1204,11 +1229,11 @@
         },
         {
             "Category": "Arcana",
-            "Definition": " Arcane competency organized by magical school."
+            "Definition": "Arcane competency organized by magical school."
         },
         {
             "Category": "Social",
-            "Definition": " Interpersonal skills, such as persuasion."
+            "Definition": "Interpersonal skills, such as persuasion."
         },
         {
             "Category": "Awareness",
@@ -1216,11 +1241,11 @@
         },
         {
             "Category": "Tradecraft",
-            "Definition": " Job-related skills."
+            "Definition": "Job-related skills."
         },
         {
             "Category": "Wisdom",
-            "Definition": " Broad-base intellectual skills and knowledge."
+            "Definition": "Broad-base intellectual skills and knowledge."
         }
     ],
     "skill_granular_descriptions": [
@@ -1237,7 +1262,7 @@
             "Skill": "Jumping"
         },
         {
-            "Expected Use Case": " Used for feats of dexterity and coordination",
+            "Expected Use Case": "Used for feats of dexterity and coordination",
             "Skill": "Acrobatics"
         },
         {
@@ -1245,11 +1270,11 @@
             "Skill": "Dodge"
         },
         {
-            "Expected Use Case": " Used when swimming",
+            "Expected Use Case": "Used when swimming",
             "Skill": "Swimming"
         },
         {
-            "Expected Use Case": " Used when climbing",
+            "Expected Use Case": "Used when climbing",
             "Skill": "Climbing"
         },
         {
@@ -1257,7 +1282,7 @@
             "Skill": "Running"
         },
         {
-            "Expected Use Case": " Determines toughness and durability",
+            "Expected Use Case": "Determines toughness and durability",
             "Skill": "Conditioning"
         },
         {
@@ -1269,15 +1294,15 @@
             "Skill": "Melee Light"
         },
         {
-            "Expected Use Case": " Weapon attack with a simple melee weapon",
+            "Expected Use Case": "Weapon attack with a simple melee weapon",
             "Skill": "Melee Simple"
         },
         {
-            "Expected Use Case": " Weapon attack with a heavy ranged weapon",
+            "Expected Use Case": "Weapon attack with a heavy ranged weapon",
             "Skill": "Ranged Heavy"
         },
         {
-            "Expected Use Case": " Weapon attack with a light ranged weapon",
+            "Expected Use Case": "Weapon attack with a light ranged weapon",
             "Skill": "Ranged Light"
         },
         {
@@ -1293,11 +1318,11 @@
             "Skill": "Unarmed"
         },
         {
-            "Expected Use Case": " Attack with a thrown weapon",
+            "Expected Use Case": "Attack with a thrown weapon",
             "Skill": "Thrown"
         },
         {
-            "Expected Use Case": " Skill with simple armor",
+            "Expected Use Case": "Skill with simple armor",
             "Skill": "Armor Simple"
         },
         {
@@ -1309,7 +1334,7 @@
             "Skill": "Armor Heavy"
         },
         {
-            "Expected Use Case": " Skill with shield",
+            "Expected Use Case": "Skill with shield",
             "Skill": "Shield"
         },
         {
@@ -1321,11 +1346,11 @@
             "Skill": "Alchemy"
         },
         {
-            "Expected Use Case": " Attack or save for divination spells",
+            "Expected Use Case": "Attack or save for divination spells",
             "Skill": "Divination"
         },
         {
-            "Expected Use Case": " Attack or save for Olethromancy spells",
+            "Expected Use Case": "Attack or save for Olethromancy spells",
             "Skill": "Olethromancy"
         },
         {
@@ -1333,11 +1358,11 @@
             "Skill": "Apotropaism"
         },
         {
-            "Expected Use Case": " Attack or save for necromancy spells",
+            "Expected Use Case": "Attack or save for necromancy spells",
             "Skill": "Necromancy"
         },
         {
-            "Expected Use Case": " Attack or save for illusion spells",
+            "Expected Use Case": "Attack or save for illusion spells",
             "Skill": "Illusion"
         },
         {
@@ -1349,11 +1374,11 @@
             "Skill": "Conjuration"
         },
         {
-            "Expected Use Case": " Attempt to persuade a being of something",
+            "Expected Use Case": "Attempt to persuade a being of something",
             "Skill": "Persuasion"
         },
         {
-            "Expected Use Case": " Attempt to manipulate a being",
+            "Expected Use Case": "Attempt to manipulate a being",
             "Skill": "Manipulation"
         },
         {
@@ -1361,7 +1386,7 @@
             "Skill": "Performance"
         },
         {
-            "Expected Use Case": " Assess a military situation",
+            "Expected Use Case": "Assess a military situation",
             "Skill": "Strategy"
         },
         {
@@ -1369,7 +1394,7 @@
             "Skill": "Etiquette"
         },
         {
-            "Expected Use Case": " Attempt to cow someone or something",
+            "Expected Use Case": "Attempt to cow someone or something",
             "Skill": "Intimidation"
         },
         {
@@ -1377,11 +1402,11 @@
             "Skill": "Resolve"
         },
         {
-            "Expected Use Case": " Attempt sleight of hand, petty theft, etc",
+            "Expected Use Case": "Attempt sleight of hand, petty theft, etc",
             "Skill": "Escamotage"
         },
         {
-            "Expected Use Case": " Used for visual observation checks",
+            "Expected Use Case": "Used for visual observation checks",
             "Skill": "Perception"
         },
         {
@@ -1401,15 +1426,15 @@
             "Skill": "Bushcraft"
         },
         {
-            "Expected Use Case": " Ability to track someone or something in the wild",
+            "Expected Use Case": "Ability to track someone or something in the wild",
             "Skill": "Tracking"
         },
         {
-            "Expected Use Case": " Ability to craft an arbitrary object",
+            "Expected Use Case": "Ability to craft an arbitrary object",
             "Skill": "Artifice"
         },
         {
-            "Expected Use Case": " Attempt to forge something with metal",
+            "Expected Use Case": "Attempt to forge something with metal",
             "Skill": "Smithing"
         },
         {
@@ -1445,7 +1470,7 @@
             "Skill": "Sailing"
         },
         {
-            "Expected Use Case": " Knowledge of philosophy, ability to be logical",
+            "Expected Use Case": "Knowledge of philosophy, ability to be logical",
             "Skill": "Philosophy"
         },
         {
@@ -1453,7 +1478,7 @@
             "Skill": "Art"
         },
         {
-            "Expected Use Case": " Ability to recite or create poetry",
+            "Expected Use Case": "Ability to recite or create poetry",
             "Skill": "Poetry"
         },
         {
@@ -1461,7 +1486,7 @@
             "Skill": "Linguistics"
         },
         {
-            "Expected Use Case": " Attempt to destroy something",
+            "Expected Use Case": "Attempt to destroy something",
             "Skill": "Demolition"
         },
         {
@@ -1477,7 +1502,7 @@
             "Skill": "Woodcutting"
         },
         {
-            "Expected Use Case": " Attempt to sew or mend something",
+            "Expected Use Case": "Attempt to sew or mend something",
             "Skill": "Sewing"
         },
         {
@@ -1485,7 +1510,7 @@
             "Skill": "Law"
         },
         {
-            "Expected Use Case": " Ability to read",
+            "Expected Use Case": "Ability to read",
             "Skill": "Literacy"
         },
         {
@@ -1497,19 +1522,19 @@
             "Skill": "History"
         },
         {
-            "Expected Use Case": " Awareness of theology, doctrine, or trivia",
+            "Expected Use Case": "Awareness of theology, doctrine, or trivia",
             "Skill": "Religion"
         },
         {
-            "Expected Use Case": " Familiarity with folklore or mythology",
+            "Expected Use Case": "Familiarity with folklore or mythology",
             "Skill": "Lore"
         },
         {
-            "Expected Use Case": " Familiarity with medicine",
+            "Expected Use Case": "Familiarity with medicine",
             "Skill": "Medicine"
         },
         {
-            "Expected Use Case": " Familiarity with a specific animal or a wild region",
+            "Expected Use Case": "Familiarity with a specific animal or a wild region",
             "Skill": "Nature"
         },
         {
@@ -1529,135 +1554,177 @@
             "Skill": "Astronomy"
         },
         {
-            "Expected Use Case": " Ability to recall",
+            "Expected Use Case": "Ability to recall",
             "Skill": "Memory"
         }
     ],
     "sorceror_spell_table": [
         {
-            "1st": " 2",
+            "1st": "2",
             "2nd": "2",
             "3rd": "--",
+            "4th": "--",
+            "5th": "--",
+            "6th": "--",
             "Milestone": "Milestone 0"
         },
         {
-            "1st": " 2",
+            "1st": "2",
             "2nd": "2",
             "3rd": "1",
             "4th": "--",
+            "5th": "--",
+            "6th": "--",
             "Milestone": "Milestone 1"
         },
         {
-            "1st": " 2",
+            "1st": "2",
             "2nd": "2",
+            "3rd": "2",
             "4th": "--",
+            "5th": "--",
+            "6th": "--",
             "Milestone": "Milestone 2"
         },
         {
-            "1st": " 3",
+            "1st": "3",
             "2nd": "2",
+            "3rd": "2",
             "4th": "--",
+            "5th": "--",
+            "6th": "--",
             "Milestone": "Milestone 3"
         },
         {
-            "1st": " 3",
+            "1st": "3",
             "2nd": "2",
+            "3rd": "2",
             "4th": "1",
             "5th": "--",
+            "6th": "--",
             "Milestone": "Milestone 4"
         },
         {
-            "1st": " 3",
+            "1st": "3",
             "2nd": "2",
+            "3rd": "2",
+            "4th": "2",
             "5th": "--",
+            "6th": "--",
             "Milestone": "Milestone 5"
         },
         {
-            "1st": " 3",
+            "1st": "3",
             "2nd": "2",
+            "3rd": "2",
+            "4th": "2",
             "5th": "1",
             "6th": "--",
             "Milestone": "Milestone 6"
         },
         {
-            "1st": " 3",
+            "1st": "3",
             "2nd": "2",
+            "3rd": "2",
+            "4th": "2",
             "5th": "1",
             "6th": "--",
             "Milestone": "Milestone 7"
         },
         {
-            "1st": " 3",
+            "1st": "3",
             "2nd": "2",
+            "3rd": "2",
+            "4th": "2",
+            "5th": "2",
             "6th": "1",
             "Milestone": "Milestone 8"
         },
         {
-            "1st": " 3",
+            "1st": "3",
             "2nd": "2",
+            "3rd": "2",
+            "4th": "2",
             "5th": "3",
+            "6th": "2",
             "Milestone": "Milestone 9"
         },
         {
             "1st": "3",
             "2nd": "2",
+            "3rd": "2",
+            "4th": "2",
+            "5th": "3",
+            "6th": "3",
             "Milestone": "Milestone 10"
         }
     ],
     "wizard_spell_table": [
         {
-            "1st": " 1",
+            "1st": "1",
             "2nd": "2",
             "3rd": "1",
             "4th": "--",
+            "5th": "--",
+            "6th": "--",
             "Milestone": "Milestone 0"
         },
         {
-            "1st": " 1",
+            "1st": "1",
             "2nd": "2",
+            "3rd": "2",
             "4th": "\u00e2\u20ac\u201d",
             "5th": "--",
+            "6th": "--",
             "Milestone": "Milestone 1"
         },
         {
-            "1st": " 1",
+            "1st": "1",
             "2nd": "2",
             "3rd": "3",
             "4th": "--",
+            "5th": "--",
+            "6th": "--",
             "Milestone": "Milestone 2"
         },
         {
-            "1st": " 1",
+            "1st": "1",
             "2nd": "3",
+            "3rd": "3",
             "4th": "--",
+            "5th": "--",
+            "6th": "--",
             "Milestone": "Milestone 3"
         },
         {
-            "1st": " 1",
+            "1st": "1",
             "2nd": "3",
             "3rd": "4",
             "4th": "1",
             "5th": "--",
+            "6th": "--",
             "Milestone": "Milestone 4"
         },
         {
-            "1st": " 1",
+            "1st": "1",
             "2nd": "3",
             "3rd": "4",
             "4th": "2",
             "5th": "--",
+            "6th": "--",
             "Milestone": "Milestone 5"
         },
         {
-            "1st": " 2",
+            "1st": "2",
             "2nd": "3",
             "3rd": "4",
             "4th": "2",
             "5th": "--",
+            "6th": "--",
             "Milestone": "Milestone 6"
         },
         {
-            "1st": " 2",
+            "1st": "2",
             "2nd": "3",
             "3rd": "4",
             "4th": "2",
@@ -1666,17 +1733,19 @@
             "Milestone": "Milestone 7"
         },
         {
-            "1st": " 2",
+            "1st": "2",
             "2nd": "3",
             "3rd": "4",
+            "4th": "3",
             "5th": "1",
             "6th": "--",
             "Milestone": "Milestone 8"
         },
         {
-            "1st": " 2",
+            "1st": "2",
             "2nd": "3",
             "3rd": "4",
+            "4th": "3",
             "5th": "2",
             "6th": "--",
             "Milestone": "Milestone 9"
@@ -1685,6 +1754,8 @@
             "1st": "2",
             "2nd": "3",
             "3rd": "4",
+            "4th": "3",
+            "5th": "2",
             "6th": "1",
             "Milestone": "Milestone 10"
         }

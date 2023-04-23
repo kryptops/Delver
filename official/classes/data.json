@@ -1,0 +1,1487 @@
+{
+    "mage": [
+        {
+            "caveats": [
+                "Mandatory"
+            ],
+            "description": "Mystics are mighty casters who slowly gather spells from patrons, gods, or mystical teachers. They often have mastery of the most powerful spells. The table below lists the number of spells per circle they know and the milestones at which they know them\u2026<mystic_spell_table>",
+            "level": "Primary",
+            "name": "Mystic_Archetype_",
+            "options": []
+        },
+        {
+            "caveats": [
+                "Mandatory"
+            ],
+            "description": "Wizards are well",
+            "level": "Primary",
+            "name": "Wizard_Archetype_",
+            "options": []
+        },
+        {
+            "caveats": [
+                "Mandatory"
+            ],
+            "description": "Proficient casters of both the most powerful and most subtle spells, sorcerers are prized for their spellcasting stamina. The table below lists the number of spells per circle they know and the milestones at which they know them\u2026<sorcerer_spell_table>",
+            "level": "Primary",
+            "name": "Sorcerer_Archetype_",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You gain a martial proficiency of your choice.",
+            "level": "Primary",
+            "name": "Warrior_Mage",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You may subtract your relevant skill modifier from saving throws that use arcana skills when the saving throw was caused by a faerie.",
+            "level": "Primary",
+            "name": "Witchhunter",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest you roll 1 fortitude die and heal yourself or someone within 10 feet by the amount on the die. The number of times this feature can be used per full rest increases by 1 at feature milestones.",
+            "level": "Primary",
+            "name": "Divine_Aid_of_Mamdaer",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest you roll 1 physique die. You may add this amount to the damage inflicted by your next melee or ranged weapon attack. The number of times this feature can be used per full rest increases by 1 at feature milestones.",
+            "level": "Primary",
+            "name": "Divine_Aid_of_Wotan",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest you roll 1 physique die. For the next 10 minutes you gain the ability to spit venom in a 15 by 5 foot line. Any entity in that area must roll a saving throw against its own dodge or might skill. If the entity fails it is blinded for 15 seconds. The number of times this feature can be used per full rest increases by 1 at feature milestones.",
+            "level": "Primary",
+            "name": "Divine_Aid_of_Yig",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "If you are not already proficient in unarmed combat you become proficient. Once per full rest you grow teeth like a shark\u2019s for 10 minutes and you can make an unarmed bite attack that does 1d8 damage plus your unarmed skill modifier. The number of times this feature can be used per full rest increases by 1 at feature milestones.",
+            "level": "Primary",
+            "name": "Divine_Aid_of_Balbataek",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest your armor value increases by 10 to a maximum of 15 for the next 10 minutes. The number of times this feature can be used per full rest increases by 1 at feature milestones.",
+            "level": "Primary",
+            "name": "Divine_Aid_of_Niemand",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest Your weapon is infused with rare metals and the artifice of the mountain. Your weapon does one additional die worth of damage for the next 15 seconds. The number of times this feature can be used per full rest increases by 1 at feature milestones.",
+            "level": "Primary",
+            "name": "Divine_Aid_of_Jabal",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest you can roll against your charisma attribute for a check or saving throw that would normally use an arcana skill. The number of times this feature can be used per full rest increases by 1 at feature milestones.",
+            "level": "Primary",
+            "name": "Arcane_Adept",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You may re",
+            "level": "Primary",
+            "name": "Mana_Resilience",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "The mana cost to cast spells at circles higher than the 1st circle is reduced by 1.",
+            "level": "Primary",
+            "name": "Natural_Caster",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You sold your soul for power. It\u2019s actually fairly difficult to pledge yourself to a deity. However, with the right oaths and incantations they can be convinced. You learn the first level spell miraculous sign. This does not count against your archetype\u2019s maximum number of first level spells known.",
+            "level": "Primary",
+            "name": "Pledged_to_the_Aeons",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You sold your soul for power. Whether Cthulhu, Hastur, or Tsathoggua, the great old ones are undeniably powerful and they have their uses for mortals. Once per full rest you have advantage on saving throws against features, abilities, or spells that inflict the insanity condition.",
+            "level": "Primary",
+            "name": "Pledged_to_the_Great_Old_Ones",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "The easiest of all patrons to stumble into a deal with, Daemons are constantly on the lookout for souls to torment for eternity in exchange for a little temporal influence. Once per full rest you have advantage on saving throws against features, abilities, or spells that inflict the charmed condition.",
+            "level": "Primary",
+            "name": "Pledged_to_the_Pit",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Death cannot be avoided. Unless you serve her. For a little servitude, she may be willing to give you the secrets to extend your life. You learn the first level spell withering touch. This does not count against your archetype\u2019s maximum number of first level spells known.",
+            "level": "Primary",
+            "name": "Pledged_to_Death",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "There are creatures that swim in the depths of space that are neither great old ones nor mortal wanderers. Their minds listen for feeble prayers which they seek to answer out of curiosity or even benevolence. You learn to speak telepathically to other beings within 30 feet of you. If their intellect is greater than 50 they can respond. You are also aware if telepathic speech is being used within 15 feet of you.",
+            "level": "Primary",
+            "name": "Pledged_to_the_Leviathan",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per 4 hour rest you can change into a creature that you are familiar with, as long as it has an ETR equal to or less than half your own level (minimum of 1). You gain that creature\u2019s stats, features, and size, but retain your attributes and skills.",
+            "level": "Primary",
+            "name": "Changer_of_Shapes",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Your relationship with an otherworldly power has given you benefits beyond your ability to use magic. You add the modifier of your relevant spellcasting skill to damage inflicted by ranged first circle spell attacks.",
+            "level": "Secondary",
+            "name": "Destroyer\u2019s_Boon",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Your relationship with an otherworldly power has given you benefits beyond your ability to use magic. Ranged first circle spells that you cast now have twice their normal range.",
+            "level": "Secondary",
+            "name": "Seeker\u2019s_Boon",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Your relationship with an otherworldly power has given you benefits beyond your ability to use magic. When you damage an entity with a ranged first circle spell attack, you regain an amount of health equal to half the damage you dealt.",
+            "level": "Secondary",
+            "name": "Worldeater\u2019s_Boon",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Your relationship with an otherworldly power has given you benefits beyond your ability to use magic. Once per full rest when you damage an entity with a first circle spell attack you reduce their armor by 2 for 30 seconds. The number of times this feature can be used per full rest increases by 1 at feature milestones.",
+            "level": "Secondary",
+            "name": "Corruptor\u2019s_Boon",
+            "options": []
+        },
+        {
+            "caveats": [
+                "Cost 1 Mana"
+            ],
+            "description": "The target of the next spell you cast that uses a saving throw must add 10 to their saving throw against the spell.",
+            "level": "Secondary",
+            "name": "Empowered_Spellcraft_",
+            "options": []
+        },
+        {
+            "caveats": [
+                "Cost 1 Mana"
+            ],
+            "description": "You increase the duration of the next spell you cast from between 1 and 10 minutes to 1 hour.",
+            "level": "Secondary",
+            "name": "Intensified_Spellcraft_",
+            "options": []
+        },
+        {
+            "caveats": [
+                "Cost 1 Mana"
+            ],
+            "description": "If the next spell you cast damages a target you may reroll any 1s when rolling to determine damage",
+            "level": "Secondary",
+            "name": "Magnified_Spellcraft_",
+            "options": []
+        },
+        {
+            "caveats": [
+                "Cost 2 Mana"
+            ],
+            "description": "You may reduce the action point cost of casting 1 spell from 2 action points to 1 action point for the next 2 spells you cast.",
+            "level": "Secondary",
+            "name": "Quicken_",
+            "options": []
+        },
+        {
+            "caveats": [
+                "Cost 1 Mana"
+            ],
+            "description": "The next spell you cast with a verbal component no longer requires it.",
+            "level": "Secondary",
+            "name": "Discrete_",
+            "options": []
+        },
+        {
+            "caveats": [
+                "Cost 2 Mana"
+            ],
+            "description": "The next spell you cast that specifies 1 target may target 1 additional entity. Any damage or other quantitative effect is applied equally to either entity.",
+            "level": "Secondary",
+            "name": "Splinter_",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You are able to start a small fire within 5 feet of you. The fire can be no larger or brighter than a candle\u2019s flame and lasts no longer than 10 minutes unless fuel is added.",
+            "level": "Secondary",
+            "name": "Limited_Pyrokinesis",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You are able to lift objects no heavier than 5 pounds with your mind. You cannot throw them and you can only keep them suspended for 10 minutes or move them 15 feet per turn for 5 minutes.",
+            "level": "Secondary",
+            "name": "Limited_Telekinesis",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You gain the following benefits\u2026",
+            "level": "Secondary",
+            "name": "War_Magic",
+            "options": [
+                "You gain proficiency in one type of weapon",
+                "You do not need a hand free to cast a spell with a somatic component"
+            ]
+        },
+        {
+            "caveats": [],
+            "description": "You have a talent for making potions. You can subtract your proficiency modifier for the potion\u2019s school of magic from bushcraft and brewing checks when making potions.",
+            "level": "Secondary",
+            "name": "Potions_Expert",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest you are able to generate an aura 10 feet in diameter. The aura lasts up to 1 minute. If a friendly entity starts its turn within this aura, it regains 1d4 points of health. The number of times this feature can be used per full rest increases by 1 at feature milestones.",
+            "level": "Secondary",
+            "name": "Aura_of_Healing",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest you are able to generate an aura 10 feet in diameter. The aura lasts up to 1 minute. If a hostile entity attempts to enter this aura it must roll a resolve check or be unable to enter. The number of times this feature can be used per full rest increases by 1 at feature milestones.",
+            "level": "Secondary",
+            "name": "Aura_of_Denial",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest you are able to generate an aura 10 feet in diameter. The aura lasts up to 1 minute. If a friendly entity starts its turn within this aura its armor value increases by 2. The number of times this feature can be used per full rest increases by 1 at feature milestones.",
+            "level": "Secondary",
+            "name": "Aura_of_Protection",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest you are able to generate an aura 30 feet in diameter. The aura lasts up to 1 hour. The aura creates a zone of bright light for 15 feet and dim light for 15 feet beyond that. The number of times this feature can be used per full rest increases by 1 at feature milestones.",
+            "level": "Secondary",
+            "name": "Aura_of_Light",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest you are able to generate an aura 15 feet in diameter. The aura lasts for up to 1 hour. The aura creates a zone of darkness which non",
+            "level": "Secondary",
+            "name": "Aura_of_Darkness",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You have obtained a fragment of the book of creation. You are able to speak the secret tongue of golems and have advantage on any social skill checks when speaking to them.",
+            "level": "Secondary",
+            "name": "Lesser_Golemancy",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "If you have proficiency with a ranged weapon, you may use the damage type of a first circle spell that you know instead of the weapon\u2019s usual damage type.",
+            "level": "Secondary",
+            "name": "Spellslinger",
+            "options": []
+        },
+        {
+            "caveats": [
+                "Cost 4 Mana"
+            ],
+            "description": "You change the damage type of a spell to a damage type employed by another spell that you know.",
+            "level": "Tertiary",
+            "name": "Elemental_Spellcraft_",
+            "options": []
+        },
+        {
+            "caveats": [
+                "Cost 4 Mana"
+            ],
+            "description": "You add to the incantation of a spell that protects it against attempts to defeat it. If the spell affects an area it cannot be dispelled. Counterspell attempts must add your proficiency modifier.",
+            "level": "Tertiary",
+            "name": "Warded_Spellcraft_",
+            "options": []
+        },
+        {
+            "caveats": [
+                "Cost 4 Mana"
+            ],
+            "description": "You increase the power of your spell. When casting a spell that requires a save you may add your skill modifier to the number you roll when determining damage.",
+            "level": "Tertiary",
+            "name": "Violent_Spellcraft_",
+            "options": []
+        },
+        {
+            "caveats": [
+                "Cost 6 Mana"
+            ],
+            "description": "You cast a spell from one school of magic using the proficiency score of a different school of magic with which you are proficient.",
+            "level": "Tertiary",
+            "name": "Spellcraft_Adept_",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest, you can petition a deity to work a miracle. It cannot do damage either directly or indirectly. If it heals it can only heal one person. It cannot directly affect more than 10 people. If an environmental effect or object is conjured it lasts for 8 hours.",
+            "level": "Tertiary",
+            "name": "Signs_and_Wonders",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Your stature is rewarded by your patron. You gain the ability to sprout wings once per full rest. While your wings are in use you have a flying speed of 30. You are immune to 20 feet of fall damage and resistant to 10. The number of times this feature can be used per full rest increases by 1 at feature milestones.",
+            "level": "Tertiary",
+            "name": "Favored_of_the_Aeons",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Your stature is rewarded by your patron. You gain the ability to lucid dream and can move about the dreamlands freely. If you encounter someone from the real world they will not recognize you but you will know it is them. You can subtract your proficiency modifier from social checks against them in the dreamlands, and what was said will impact their behaviors in the material universe.",
+            "level": "Tertiary",
+            "name": "Favored_of_the_Great_Old_Ones",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Your stature is rewarded by your patron. You are given a minion who you can order to possess another being or creature of an ETR up to half your current milestone number. Once per full rest, you can take control of the possessed being or creature for up to 10 minutes. If it is a being it will realize it has been possessed after you take control of it and the minion will stop possessing it. The number of times this feature can be used per full rest increases by 1 at feature milestones.",
+            "level": "Tertiary",
+            "name": "Favored_of_the_Pit",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Your stature is rewarded by your patron. You are a trusted instrument of the grim reaper and she will not take you from your work just yet. If you succeed on a death saving throw, you are healed by 1d6 and stand back up.",
+            "level": "Tertiary",
+            "name": "Favored_of_Death",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You become adept at psionics and can either shut down or enhance telepathic speech. Once per short rest\u2013if telepathic speech is being used within 15 feet of you\u2013you may either triple its range or generate static that reduces its range to 5 feet.",
+            "level": "Tertiary",
+            "name": "Favored_of_the_Leviathan",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "If you have a spellbook it is awakened by the magic within it and seeks to protect you from harm. Once per full rest your spellbook can give you advantage on a saving throw against a spell from a school of magic with which you are proficient. If you lose your spellbook you no longer have access to this feature. The number of times this feature can be used per full rest increases by 1 at feature milestones.",
+            "level": "Tertiary",
+            "name": "Warded_Spellbook",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "The animals, the trees, and even the very earth are your brothers and sisters and will intervene on your behalf. Once per full rest, you can petition the wild animals to perform small tasks for you such as covering your tracks, creating a distraction, or retrieving something for you. As a rule they will not do anything that would reasonably be considered dangerous or inflict direct harm on your enemies. The number of times this feature can be used per full rest increases by 1 at feature milestones.",
+            "level": "Tertiary",
+            "name": "Kindred_of_the_Wild",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You reduce the mana cost of spells from the 3rd circle or higher by 1.",
+            "level": "Tertiary",
+            "name": "Conservation_of_Mana",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You have obtained a fragment of the book of creation. You are able to create bronze golems if you gather a sufficient quantity of bronze to form the golem. The bronze for the golem cannot be gathered from a dead golem.",
+            "level": "Tertiary",
+            "name": "Golemancy",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest when you cast a spell that requires a save you can impose a mana cost on your opponent\u2019s saving throw equal to the mana expended to cast the spell.",
+            "level": "Capstone",
+            "name": "Master_of_Spellcraft",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You are able to change your shape in ways that transcend your previous abilities. You gain the ability to become a pool of water, a sapling, a stone, a vapor or any other natural object that can fit within a 10 foot cube. While in this shape you can see and hear and can change back at will. You can also cast spells of the first circle, which do not appear to have a source. If you are attacked in this form you cannot benefit from any armor that you are wearing.",
+            "level": "Capstone",
+            "name": "Force_of_Nature",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "If you have a spellbook it is protected against physical harm and loss. If it is lost or destroyed it will reappear in your pack or in your hand. Spells written in this spellbook can\u2019t be removed.",
+            "level": "Capstone",
+            "name": "Immutable_Spellbook",
+            "options": []
+        },
+        {
+            "caveats": [
+                "Cost 8 Mana"
+            ],
+            "description": "You cast a spell against which there is no defense. Once per full rest when you cast a spell of 4th circle or lower, you may spend 8 Mana to make it unerring. The spell automatically succeeds without a save or a spell attack.",
+            "level": "Capstone",
+            "name": "Unerring_Spell_",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You are able to speak the will of a god. Once per full rest a statement that you make about a being\u2019s actions will come true. The statement must specify time, course of action, and outcome. If it involves harm to another being or creature it must be related to something that is already occurring such as a conflict or a plot to kill that being or creature. It cannot involve something that is outside the character or will of the being or creature.",
+            "level": "Capstone",
+            "name": "Prophetic_Speech",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You have obtained a fragment of the book of creation. You are able to create any golem if you gather a sufficient amount of material, which cannot come from a dead golem.",
+            "level": "Capstone",
+            "name": "Greater_Golemancy",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You are granted the status of a minor demigod. Once per full rest when you speak, all entities within earshot must roll a resolve saving throw or be frightened of you. The effect lasts for 1 minute.",
+            "level": "Capstone",
+            "name": "Avatar_of_the_Aeons",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "The great old ones reward you with profane knowledge that, if shared, could inflict insanity on others. Once per full rest when you speak, all entities within earshot must roll a saving throw against their perception or comprehension skill. If they succeed they lose 1d10 sanity.",
+            "level": "Capstone",
+            "name": "Avatar_of_the_Great_Old_Ones",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You carry out the will of the Pit. Once per full rest, you are able to banish a being of an ETR 10 or less to the pit. They will be banished for 24 hours and will have 1 health when they return.",
+            "level": "Capstone",
+            "name": "Avatar_of_the_Pit",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You become an aspect of the grim reaper. If you reduce an entity to 10 health or less without reducing it to 0, it must roll a death saving throw. If it fails, it is immediately slain.",
+            "level": "Capstone",
+            "name": "Avatar_of_Death",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You become extremely adept at psionics. Once per full rest, you are able to project your consciousness as far as 1 mile for up to 10 minutes. You cannot be seen or detected unless otherwise specified. You can see and hear.",
+            "level": "Capstone",
+            "name": "Avatar_of_the_Leviathan",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You are aware if other entities with psychic abilities are within 30 feet of you.",
+            "level": "Optional",
+            "name": "Psychic_Detection",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "If telepathic speech is being sent or received within 15 feet of you, you are able to hear what is said.",
+            "level": "Optional",
+            "name": "Psychic_Eavesdropping",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You may subtract your proficiency modifier from your roll when you cast counterspell.",
+            "level": "Optional",
+            "name": "Duelist",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You may choose to learn 1 additional Magical Manipulation.",
+            "level": "Optional",
+            "name": "Casting_Savant",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "When expending additional mana to cast a spell in a higher circle, the additional mana cost is reduced to 1 if you are only going up one circle.",
+            "level": "Optional",
+            "name": "Accelerationist",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest, if an entity within 15 feet of you is attempting to make a save against a spell in a school for which you are proficient, you may make the saving throw for the targeted entity.",
+            "level": "Optional",
+            "name": "Arcane_Protection",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest, you may give yourself resistance to damage from a school of spells in which you are proficient. This lasts for 10 minutes.",
+            "level": "Optional",
+            "name": "Arcane_Defense",
+            "options": []
+        }
+    ],
+    "rogue": [
+        {
+            "caveats": [],
+            "description": "You have advantage against targets that are surprised",
+            "level": "Primary",
+            "name": "Ambush",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per round when you hit a surprised entity with a weapon attack, you inflict 1d10 additional damage. The number of damage dice increases by 1 with each feature milestone.",
+            "level": "Primary",
+            "name": "Decisive_Blow",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per round, you may deal 2d4 additional damage to an entity if there is more than one entity friendly to you within 5 feet of the target entity or if it cannot see you. The number of damage dice increases by 2 with each feature milestone.",
+            "level": "Primary",
+            "name": "Prepared_Attack",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per turn you can take the dodge action without expending an action point or the run action at the cost of only 1 action point.",
+            "level": "Primary",
+            "name": "Moving_Target",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You have advantage on tracking and bushcraft checks while pursuing an entity you are familiar with.",
+            "level": "Primary",
+            "name": "Expert_Tracker",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per round when you hit an entity with a weapon attack, you inflict 1d8 additional damage if it has already been damaged by an entity friendly to you. The number of damage dice increases by 1 with each feature milestone.",
+            "level": "Primary",
+            "name": "Trained_Killer",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You become proficient in animal handling if you aren\u2019t already.  You have advantage on animal handling checks when trying to tame or calm an animal.",
+            "level": "Primary",
+            "name": "Animal_Affinity",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You tame 1 creature or monster that will serve as a companion. You can order your creature to perform an action at the cost of 1 of your action points per order. The table below specifies the maximum ETR of the animal by Milestone\u2026<beastmaster_etrbymilestone_table>",
+            "level": "Primary",
+            "name": "Beastmaster",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest you can reduce the cost of an attack action to 1 action point for 5 seconds. The number of times you can perform this action per full rest increases by 1 with each feature milestone.",
+            "level": "Secondary",
+            "name": "Swift_Attack",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "If you hit a target in the preceding turn, you have advantage on your first attack against that target in the current turn.",
+            "level": "Secondary",
+            "name": "Cunning_Attack",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "When you damage an entity while dual",
+            "level": "Secondary",
+            "name": "Two_Handed_Fighting",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "If you damaged a target in the preceding turn, you may increase your next damage roll against that target by 2.",
+            "level": "Secondary",
+            "name": "Violent_Attack",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "If you have advantage on an attack against an entity, you may expend an action point to allow a friendly entity within 10 feet of you to make an attack with a counter action.",
+            "level": "Secondary",
+            "name": "Tandem_Attack",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "When you take the hide action you may subtract your skill modifier from your stealth check.",
+            "level": "Secondary",
+            "name": "Inconspicuous",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "When you damage a target at range with a thrown weapon you may increase your damage rolls by 2.",
+            "level": "Secondary",
+            "name": "Thrown_Weapon_Fighter",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "While using a ranged weapon, you may roll one additional damage die when you score a critical hit.",
+            "level": "Tertiary",
+            "name": "Sharpshooter",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You may subtract 10 from stealth checks when attempting to lay an ambush.",
+            "level": "Tertiary",
+            "name": "Masterful_Ambush",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "When being attacked by multiple foes you are not overwhelmed unless there are at least 4 enemies within 5 feet of you.",
+            "level": "Tertiary",
+            "name": "Outnumbered_but_not_Overwhelmed",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You may subtract your skill modifier from your attack rolls against enemies 2 or more sizes larger than you.",
+            "level": "Tertiary",
+            "name": "Giant_Slayer",
+            "options": []
+        },
+        {
+            "caveats": [
+                "Beastmaster"
+            ],
+            "description": "Once per short rest you are able to know exactly what your companion creature or monster is thinking.",
+            "level": "Tertiary",
+            "name": "Beastbond_",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You gain proficiency in Escamotage if you are not already proficient. You may subtract your skill modifier from  Escamotage checks.",
+            "level": "Tertiary",
+            "name": "Expert_Pickpocket",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You are able to estimate the shot necessary to target an enemy behind cover with a ranged weapon.",
+            "level": "Capstone",
+            "name": "Blind_Shot",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You are able to take 1 additional companion creature or monster. It costs 1 action point to issue a command to both creatures if it is the same command. If it is a different command it will cost 2 action points.",
+            "level": "Capstone",
+            "name": "Menagerie",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest you become resistant to one type of damage for 1 hour.",
+            "level": "Capstone",
+            "name": "Well_Prepared",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You can always take the hide action in dim light or darkness.",
+            "level": "Capstone",
+            "name": "In_the_Shadows",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "If you score a critical hit on an enemy, you gain 1 free action point which can be used immediately.",
+            "level": "Capstone",
+            "name": "Blood_in_the_Water",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You can select a secondary or tertiary feature from another subclass that has not already been selected by another member in your party.",
+            "level": "Optional",
+            "name": "Breadth_of_Experience",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You gain proficiency in conditioning if you are not already proficient. You can go 1 additional day without incurring exhaustion from any natural cause (hunger, thirst, forced march, sleep deprivation).",
+            "level": "Optional",
+            "name": "Hardy_Constitution",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You have connections in the local underworld. Once per full rest you can set up a meeting with them. They can give basic information about the local underworld and goings on in the city.",
+            "level": "Optional",
+            "name": "Unsavory_Ally",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Your movement speed increases by 10.",
+            "level": "Optional",
+            "name": "Sprinter",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest, you may re",
+            "level": "Optional",
+            "name": "Lucky",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "When you hit an opponent with an attack, you may force them to make a dexterity saving throw. If the result is higher than their dexterity trait, they drop the weapon they are currently holding.",
+            "level": "Optional",
+            "name": "Disarm",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You are able to wield weapons that are one",
+            "level": "Optional",
+            "name": "Two_Weapon_Expert",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest you can coat one of your weapons with a potent toxin. It will last for 24 hours. While the weapon is poisoned, once per turn you may inflict additional poison damage when you damage an enemy with it in accordance with the poisons listed in the chapter on items.",
+            "level": "Optional",
+            "name": "Poisoner",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest when an enemy attempts to make an attack against a friendly entity within 5 feet of you you may use your counter action to make an attack. If you hit you do no damage but your enemy\u2019s attack automatically fails. The number of times this feature can be used per full rest increases by 1 at feature milestones.",
+            "level": "Optional",
+            "name": "Interrupting_Attack",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest, you may use the dodge action for the cost of 1 action point. The number of times this feature can be used per full rest increases by 1 at feature milestones.",
+            "level": "Optional",
+            "name": "Cautious_Pursuit",
+            "options": []
+        }
+    ],
+    "scholar": [
+        {
+            "caveats": [],
+            "description": "Once per full rest, you may use your skill with your instrument to grant an ally a 1d10 that can be subtracted from a check, attack, or saving throw. The number of times you can perform this action per full rest increases by 1 with each feature milestone.",
+            "level": "Primary",
+            "name": "Inspirational_Tone",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "At the cost of 2 action points you may insult an enemy in a way that fundamentally damages them. They must roll a saving throw against their resolve skill or take 1d8 psychic damage. If they succeed on the saving throw, they take half the damage.",
+            "level": "Primary",
+            "name": "Words_of_Cruelty",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest, you can impose disadvantage on an entity attempting to avoid notice using an escamotage or stealth check.",
+            "level": "Primary",
+            "name": "Observant",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per 2",
+            "level": "Primary",
+            "name": "Cunning_Strategy",
+            "options": [
+                "Wisdom -  You point out a flaw in your enemy\u2019s strategy, defenses, or technique. An ally within 5 feet of you can subtract 5 from their next attack against that enemy.",
+                "Arcana - You recite information about the school of magic that is being used against an ally within 5 feet of you. They may subtract 10 from their next saving throw against that school of magic.",
+                "Awareness - You observe signs of danger. The next time your allies use the dodge action within 1 hour it will cost 1 action point.",
+                "Social - If one of your allies is forced to make a saving throw against the charmed condition, you can use your counter action to grant them advantage."
+            ]
+        },
+        {
+            "caveats": [],
+            "description": "You have discovered mystical secrets that have an effect on the world around you. Once per full rest yYou light a fire that is immune to being extinguished as long as it only burns within a circle 3 feet in diameter. If it grows large than that, it goes out. The number of times you can perform this action per full rest increases by 1 with each feature milestone.",
+            "level": "Primary",
+            "name": "Keeper_of_the_Secret_of_Fire",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You have discovered mystical secrets that have an effect on the world around you. You are able to create a patch of darkness 10 feet in diameter. This patch lasts for 10 minutes and cannot be seen through. The number of times you can perform this action per short rest increases by 1 with each feature milestone.",
+            "level": "Primary",
+            "name": "Keeper_of_the_Secret_of_Shadows",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You have discovered mystical secrets that have an effect on the world around you. You are able to swim underwater at a speed equal to your walking speed. You do not need to breathe.",
+            "level": "Primary",
+            "name": "Keeper_of_the_Secret_of_the_Deep",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "If you can see the moon, you are able to make it cast a circle of bright light in a 10 foot diameter where you walk for 1 hour.",
+            "level": "Primary",
+            "name": "Keeper_of_the_Secret_of_the_Moon",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You are able to materialize a shortsword with which you are proficient.",
+            "level": "Primary",
+            "name": "Keeper_of_the_Secret_of_Iron",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per short rest, you can perform one of the following actions at a cost of 1 action point, depending on which category you have half proficiency in. The number of times you can perform this action per short rest increases by 1 with each feature milestone\u2026",
+            "level": "Primary",
+            "name": "Learned_Traveler",
+            "options": [
+                "Wisdom - You are familiar with the local flora and fauna. You know either 1 vulnerability, 2 resistances, or 1 immunity of a creature you are fighting or are about to fight.",
+                "Arcana - You once learned a countercharm against spellcraft when you were traveling. You can impose disadvantage on a spellcaster that you can see and hear within 30 feet when they attempt to make a spell attack.",
+                "Awareness - Your familiarity with the terrain allows you to be prepared for danger. You have advantage when rolling combat order for 1 hour.",
+                "Social - You are familiar with local customs and traditions. You have advantage on social checks with locals for 10 hours."
+            ]
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest when you earn 1 proficiency point in a skill you may add 2 points to the skill instead. The number of times you can perform this action per full rest increases by 1 with each feature milestone.",
+            "level": "Secondary",
+            "name": "Quick_Learner",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest you temporarily improve 1 weapon in one of the following ways\u2026",
+            "level": "Secondary",
+            "name": "Weaponsmith",
+            "options": [
+                "You improve its quality by 1 tier, up to superior quality, for 1 hour.",
+                "You craft 5 pieces of specialized ammunition which ignore up to half of an enemy\u2019s armor value.",
+                "You improve its range by 30 feet for 1 hour."
+            ]
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest when a friendly entity that you can see earns 1 proficiency point in a skill you may also earn 1 proficiency point in that skill as long as you have not already increased it. The number of times you can perform this action per full rest increases by 1 with each feature milestone.",
+            "level": "Secondary",
+            "name": "Observant_Learner",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest you can restore 1 health to an unconscious entity within 5 feet of you. The number of times you can perform this action per full rest increases by 1 with each feature milestone.",
+            "level": "Secondary",
+            "name": "Physician",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest, one person you touch may subtract or must add their skill modifier to their next check or saving throw against an intellect",
+            "level": "Secondary",
+            "name": "Secret_of_the_Mind",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest you can use a performance check to charm a group of beings within 30 feet of you. If you succeed they are charmed for 1 hour.",
+            "level": "Secondary",
+            "name": "Enthralling_Performance",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest you can use your counter action to switch positions in the combat order with an entity that you can see.",
+            "level": "Tertiary",
+            "name": "Outsmart",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You can pick another skill category to gain half proficiency in.",
+            "level": "Tertiary",
+            "name": "True_Polymath",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You once learned a secret technique for learning the contents of books and scrolls by leaving them beneath your head at night. Once per full rest you can read up to 1/10th of a book by placing it under your head when you sleep. If you do this 10 times in a row you will learn the contents of the entire book. The number of times you can perform this action per full rest increases by 1 with each feature milestone.",
+            "level": "Tertiary",
+            "name": "Osmotic_Reading",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest you permanently or temporarily improve 1 weapon in one of the following ways\u2026",
+            "level": "Tertiary",
+            "name": "Warsmith",
+            "options": [
+                "You improve its quality by 1 tier, up to heirloom quality. The same weapon cannot be improved twice.",
+                "You craft 10 pieces of specialty ammunition that do 1d8 additional lightning, fire, or cold damage. ",
+                "The weapon\u2019s user may reroll any critical failures rolled while attempting to hit an enemy with that weapon."
+            ]
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest one friendly entity within 15 feet that can hear you is able to add an extra damage die when they hit an enemy with an attack. The number of times you can perform this action per full rest increases by 1 with each feature milestone.",
+            "level": "Tertiary",
+            "name": "Words_of_Violence",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You are able to hear whispers from beyond the veil and how they overcame a similar situation. When a friendly entity you can see within 30 feet fails a saving throw or skill check (with the exception of martial skills), you can change it to a success.",
+            "level": "Tertiary",
+            "name": "Secret_of_the_Soul",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest you tell someone to do something. They may roll an intuition saving throw at disadvantage. If they fail they will do as you suggest. The command must not require the entity to harm oneself or another and the task required must take no longer than 10 hours.",
+            "level": "Capstone",
+            "name": "Words_of_Command",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest you tell an entity that they are wrong. The entity may roll a deduction saving throw at disadvantage. If they fail they realize they were incorrect and will behave accordingly. This may simply be with regards to a factual dispute or may extend to goals and motivations, such as why an army is fighting.",
+            "level": "Capstone",
+            "name": "Confidently_Incorrect",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest you can take on a protoplasmic form for 1 hour. While in this form any attack that damages you causes the entity that attacked you to take 1d8 acid damage. In addition you can fit through openings that would normally require you to be size tiny or smaller to fit through.",
+            "level": "Capstone",
+            "name": "Secret_of_the_Stars",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest you permanently or temporarily improve 1 weapon in one of the following ways\u2026",
+            "level": "Capstone",
+            "name": "Master_Artificer",
+            "options": [
+                "You improve its quality by 1 tier, up to legendary quality. The same weapon cannot be improved twice.",
+                "You craft 10 pieces of specialty ammunition that ignore armor value altogether.",
+                "You imbue it with the power to sense danger, such that it will leap into the hand of its user when danger is close by. The user thus has advantage on saving throws against being surprised."
+            ]
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest you are able to deduce the approximate thoughts, intentions, personality, and recent history of 1 entity that you have known for at least 10 minutes.",
+            "level": "Capstone",
+            "name": "Uncanny_Deduction",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest you can roll surgery checks on behalf of an entity. The number of times you can perform this action per full rest increases by 1 with each feature milestone.",
+            "level": "Optional",
+            "name": "Surgeon",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest you weave a simple charm into your words that enhances your physical appearance or makes you difficult to recognize. When attempting to make perception checks to see through the glamor, entities must add your skill modifier to their roll. The number of times you can perform this action per full rest increases by 1 with each feature milestone.",
+            "level": "Optional",
+            "name": "Glamor",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You are able to find rare books as easily as uncommon books.",
+            "level": "Optional",
+            "name": "Librarian",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest you determine that an enemy is about to hit a friendly entity you can see within 60 feet of you. You grant them the ability to roll a saving throw against their dodge skill, which will result in them taking half damage on a successful save. The number of times you can perform this action per full rest increases by 1 with each feature milestone.",
+            "level": "Optional",
+            "name": "Military_Scholar",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest when a friendly entity within 30 feet of you rolls a bushcraft or tracking check they may subtract your modifier from their roll. If they must make a saving throw against an athletic or awareness skill they may use your bushcraft skill score instead. The number of times you can perform this action per full rest increases by 1 with each feature milestone.",
+            "level": "Optional",
+            "name": "Pathfinder",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest 1 entity within 15 feet that can hear you regains 1d4 health. The number of times you can perform this action per full rest increases by 1 with each feature milestone.",
+            "level": "Optional",
+            "name": "Words_of_Healing",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest 1 entity within 60 feet that can hear you has advantage on their next athletics check or saving throw.",
+            "level": "Optional",
+            "name": "Words_of_Strength",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest 1 entity within 30 feet that can hear you has disadvantage on their next resolve check or saving throw.",
+            "level": "Optional",
+            "name": "Words_of_Doubt",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You weave a tale that confuses the listener. Anyone that hears it has disadvantage on the next awareness check they make.",
+            "level": "Optional",
+            "name": "Secret_of_the_Tale",
+            "options": []
+        }
+    ],
+    "warrior": [
+        {
+            "caveats": [],
+            "description": "Your training allows you to observe and pick out your enemies\u2019 weaknesses. Critical hits occur on a 1",
+            "level": "Primary",
+            "name": "Superior_Training",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per short rest you can increase your action points by 1 for 5 seconds. The number of times this feature can be used per short rest increases by 1 at feature milestones.",
+            "level": "Primary",
+            "name": "Agile_Duelist",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Berserkers are infamous for their seeming disregard for the most violent of blows and for the violence they can unleash when they fly into a rage. When creating your character, determine whether strength or dexterity will be used with your attacks. Your rage will apply to that stat only from now on. For one action point, you enter a rage for 1 minute and obtain the following advantages\u2026",
+            "level": "Primary",
+            "name": "Berserker",
+            "options": [
+                "You have advantage on might or dodge saving throws",
+                "Your melee attacks do additional damage equivalent to how many milestone dice you currently have."
+            ]
+        },
+        {
+            "caveats": [
+                "Berserker"
+            ],
+            "description": "Once per full rest while in a fury, you may decrease the action point cost of your attacks by 1 for 5 seconds. If you are wielding a heavy weapon, you gain the exhausted condition when your fury ends. The number of times this feature can be used per full rest increases by 1 at feature milestones.",
+            "level": "Primary",
+            "name": "Bloodlust_",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per short rest you can subtract your Ranged Guns",
+            "level": "Primary",
+            "name": "Crackshot",
+            "options": [
+                "modifier from your attack roll. The number of times this feature can be",
+                "used per short rest increases by 1 at feature milestones."
+            ]
+        },
+        {
+            "caveats": [],
+            "description": "Gunslingers tend to be suspicious and not particularly honorable. Unless surprised, you have advantage when determining combat order.",
+            "level": "Primary",
+            "name": "Quick_on_the_Draw",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "When creating your character, select an ideal to uphold from the list below. Once per full rest, when you hit an enemy with a weapon attack, you can use mana to inflict 1d8 additional damage of the type specified by your selected bond. The number of damage dice and the number of times you can use this feature per full rest increase by 1 at each feature milestone.",
+            "level": "Primary",
+            "name": "Strength_of_Ideals",
+            "options": [
+                "War - Fire",
+                "Order - Force",
+                "Decay - Necrotic",
+                "Purity - Radiant",
+                "Revolution - Thunder"
+            ]
+        },
+        {
+            "caveats": [],
+            "description": "You are able to determine the presence of any undead, angel, or daemon within 30 feet of you.",
+            "level": "Primary",
+            "name": "Contemptuous_Gaze",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "To the arcanist is given the keenest blade and the surest bow. Your weapon counts as one quality level higher than it is. If it is a legendary weapon already, its bonus is increased to 12.",
+            "level": "Primary",
+            "name": "Enchanted_Weapon",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "The prestige of the arcanist lies in their mystical abilities, not just in the weapons they wield. You may select two first circle spells from a magic school in which you are proficient.",
+            "level": "Primary",
+            "name": "Arcane_Armament",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "When you damage an entity while dual",
+            "level": "Secondary",
+            "name": "Two_Handed_Fighting",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "When you hit an entity with a heavy weapon attack, you may reroll 1s and 2s when rolling for damage.",
+            "level": "Secondary",
+            "name": "Heavy_Weapon_Adept",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "While wielding a single one",
+            "level": "Secondary",
+            "name": "Duelist",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You add 2 to your armor value while you have at least 1 melee weapon in your possession that you can readily use.",
+            "level": "Secondary",
+            "name": "Defense",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "While wielding a ranged weapon, you may subtract 5 from your attack rolls.",
+            "level": "Secondary",
+            "name": "Marksman",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Your unarmed attacks do 1d6 bludgeoning damage and you may add your skill modifier to your unarmed attacks.",
+            "level": "Secondary",
+            "name": "Martial_Artist",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "While wielding simple weapons you may increase your damage rolls by 2.",
+            "level": "Secondary",
+            "name": "Simple_Weapon_Fighter",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You choose to cow an opponent within 30 feet that you can see and that can see you. Roll an intimidation check contested by a resolve check from them. If you succeed, they are frightened of you for 15 seconds.",
+            "level": "Tertiary",
+            "name": "Fearsome_Visage",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You can reload 1 ranged weapon as a free action if it is in your hand and not being used for an attack.",
+            "level": "Tertiary",
+            "name": "Effortless_Reload",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "When not wearing armor you have an armor value equal to your fortitude attribute modifier.",
+            "level": "Tertiary",
+            "name": "Armored_in_Might",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per short rest, when you damage an enemy with a ranged weapon attack, you can choose to also damage one enemy within 10 feet of the original target by the same amount. The number of times this feature can be used per short rest increases by 1 at feature milestones.",
+            "level": "Tertiary",
+            "name": "Splinter_Shot",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You become resistant to radiant, force, psychic, or necrotic damage.",
+            "level": "Tertiary",
+            "name": "Righteous_Resistance",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per short rest you can reroll one saving throw. The number of times this feature can be used per short rest increases by 1 at feature milestones.",
+            "level": "Tertiary",
+            "name": "Unyielding_Defender",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per short rest you can take the dodge action at a cost of 1 action point. The number of times this feature can be used per short rest increases by 1 at feature milestones.",
+            "level": "Tertiary",
+            "name": "Expert_Positioning",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest you can change the damage profile of your weapon to slashing, piercing, bludgeoning, force, fire, or cold. The number of times this feature can be used per full rest increases by 1 at feature milestones.",
+            "level": "Tertiary",
+            "name": "Polymorphic_Weapon",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "When you deal a critical hit to an opponent they must roll a conditioning saving throw. If they fail they receive the bleeding condition until the start of your next turn.",
+            "level": "Tertiary",
+            "name": "Mortal_Wound",
+            "options": []
+        },
+        {
+            "caveats": [
+                "Berserker"
+            ],
+            "description": "You are ignorant of all obstacles that block your path. While furious your speed becomes 40 and you ignore difficult terrain. If you move within 5 feet of a medium or smaller hostile entity it must make a might or dodge saving throw or be knocked prone. If it succeeds, it may use its counter action to make an attack against you if you move away from it.",
+            "level": "Tertiary",
+            "name": "Blind_Rage_",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Your action point count is permanently increased by 1.",
+            "level": "Capstone",
+            "name": "Peerless_Agility",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "When you deal a hit to an opponent that reduces them to less than 10 health, they must roll a conditioning saving throw. If they fail they die instead.",
+            "level": "Capstone",
+            "name": "Deathblow",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You can re",
+            "level": "Capstone",
+            "name": "Deadeye",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You can subtract any quality modifiers your weapon has from your attack rolls with that weapon.",
+            "level": "Capstone",
+            "name": "Unerring_Weapon",
+            "options": []
+        },
+        {
+            "caveats": [
+                "Berserker"
+            ],
+            "description": "Once per full rest you become immune to all damage for 15 seconds while furious. The number of times this feature can be used per full rest increases by 1 at feature milestones.",
+            "level": "Capstone",
+            "name": "Unyielding_Rage_",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "The threshold for a crit is reduced by 5. Barring the presence of other features, any hit of 1",
+            "level": "Capstone",
+            "name": "Lethal_Precision",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Your body changes to resemble the cause you serve. Your skin becomes hard and resembles steel. Your armor value increases by 5 permanently.",
+            "level": "Capstone",
+            "name": "Icon_of_War",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Your body changes to resemble the cause you serve. Your mere presence brings dismay to the forces of chaos. You become one size larger. The first time you hit a creature with an attack they must roll a resolve saving throw. If they fail they must use their counter action to move away from you as far as possible.",
+            "level": "Capstone",
+            "name": "Icon_of_Order",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Your body changes to resemble the cause you serve. You are a living aspect of rot and unhealth. You are immune to necrotic damage. If you are reduced to 0 health, roll a conditioning saving throw. If you succeed you are reduced to 1 health instead.",
+            "level": "Capstone",
+            "name": "Icon_of_Decay",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Your body changes to resemble the cause you serve. Your face glows with an inner light so glorious that those who look upon it dare not strike you. Opponents within 15 feet who can see your face must roll a resolve saving throw when they want to attack you. If they fail the action points are spent but they do not attack you.",
+            "level": "Capstone",
+            "name": "Icon_of_Purity",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Your body changes to resemble the cause you serve. Your voice is the voice of unity against the forces that tear down the common man. After combat order is rolled, up to 5 opponents that you can see of ETR 9 or lower must roll an intuition saving throw. If they succeed they will assist you on their turn.",
+            "level": "Capstone",
+            "name": "Icon_of_Revolution",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "You may use a heavy, 1",
+            "level": "Optional",
+            "name": "Dual_Wielding_Expert",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "If you move more than half your movement before making a melee attack, you have advantage on your attack.",
+            "level": "Optional",
+            "name": "Charger",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "When you damage an enemy with a melee weapon attack, roll a check against your might skill. If you succeed, the enemy counts as overwhelmed for 10 seconds even if no one else is within 5 feet.",
+            "level": "Optional",
+            "name": "Overwhelming_Blow",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest when you damage an enemy with a weapon attack, you can force them to make a saving throw against their conditioning skill. If they fail they are stunned for 10 seconds.",
+            "level": "Optional",
+            "name": "Stunning_Blow",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest when you target an opponent with a ranged weapon attack, you can ignore up to half of their armor value. The number of times this feature can be used per full rest increases by 1 at feature milestones.",
+            "level": "Optional",
+            "name": "Piercing_Shot",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per short rest when you miss an opponent with a ranged weapon attack, you can roll an intimidation check contested by a resolve check from them. If you succeed they are frightened of you for 15 seconds. The number of times this feature can be used per short rest increases by 1 at feature milestones.",
+            "level": "Optional",
+            "name": "Warning_Shot",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per short rest when an enemy hits with a melee attack, roll a save against your skill with your current weapon. If you succeed, your armor value is increased by 3. The number of times this feature can be used per short rest increases by 1 at feature milestones.",
+            "level": "Optional",
+            "name": "Parry",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per short rest when you are damaged by a melee attack, you may use your counter action to attack. The number of times this feature can be used per short rest increases by 1 at feature milestones.",
+            "level": "Optional",
+            "name": "Riposte",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per short rest, when you hit an enemy with a melee weapon attack, you may force them to make a saving throw against their proficiency with that weapon. If they fail, they drop the weapon they are currently holding. The number of times this feature can be used per short rest increases by 1 at feature milestones.",
+            "level": "Optional",
+            "name": "Disarm",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per short rest you can grant yourself advantage on a melee weapon attack against an enemy. The number of times this feature can be used per short rest increases by 1 at feature milestones.",
+            "level": "Optional",
+            "name": "Feint",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "If an enemy comes within reach while you\u2019re wielding a weapon with a reach of 10 or greater, you may use your counter action to make an attack. If the attack hits, the enemy takes damage and their speed is reduced to 0.",
+            "level": "Optional",
+            "name": "Polearm_Expert",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest when you\u2019re damaged, roll a conditioning check. If you succeed, you may reduce the damage taken from the attack by 1 fortitude die. The number of times this feature can be used per full rest increases by 1 at feature milestones.",
+            "level": "Optional",
+            "name": "Legendary_Resilience",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest when you damage an enemy with a weapon attack you learn one resistance, immunity, or vulnerability (your choice) that it has. The number of times this feature can be used per full rest increases by 1 at feature milestones.",
+            "level": "Optional",
+            "name": "Divining_Blade",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest when you damage an enemy with a weapon attack you give yourself advantage on your next attack against it. The number of times this feature can be used per full rest increases by 1 at feature milestones.",
+            "level": "Optional",
+            "name": "Seeking_Blade",
+            "options": []
+        },
+        {
+            "caveats": [],
+            "description": "Once per full rest when you damage an enemy with a weapon attack you can heal yourself by the amount on the dice. The number of times this feature can be used per full rest increases by 1 at feature milestones.",
+            "level": "Optional",
+            "name": "Vampiric_Blade",
+            "options": []
+        },
+        {
+            "caveats": [
+                "Berserker"
+            ],
+            "description": "Your resistance is amplified by the fury of your ancestors who goad you on. Once per full rest, you become resistant to all damage except psychic while furious. The number of times this feature can be used per full rest increases by 1 at feature milestones",
+            "level": "Optional",
+            "name": "Ancestral_Rage_",
+            "options": []
+        },
+        {
+            "caveats": [
+                "Berserker"
+            ],
+            "description": "While furious you cannot be affected by spells that require a minimum level of intelligence. You are resistant to psychic damage while furious and have advantage against being charmed.",
+            "level": "Optional",
+            "name": "Ignorant_Rage_",
+            "options": []
+        }
+    ]
+}
