@@ -1,0 +1,328 @@
+{
+    "arcana": [
+        {
+            "base_atter": "I",
+            "name": "Alchemy"
+        },
+        {
+            "base_atter": "I",
+            "name": "Divination"
+        },
+        {
+            "base_atter": "I",
+            "name": "Olethromancy"
+        },
+        {
+            "base_atter": "F",
+            "name": "Apotropaism"
+        },
+        {
+            "base_atter": "F",
+            "name": "Necromancy"
+        },
+        {
+            "base_atter": "C",
+            "name": "Illusion"
+        },
+        {
+            "base_atter": "C",
+            "name": "Enchantment"
+        },
+        {
+            "base_atter": "C",
+            "name": "Conjuration"
+        }
+    ],
+    "athletics": [
+        {
+            "base_atter": "P",
+            "name": "Might"
+        },
+        {
+            "base_atter": "P",
+            "name": "Stealth"
+        },
+        {
+            "base_atter": "P",
+            "name": "Jumping"
+        },
+        {
+            "base_atter": "P",
+            "name": "Acrobatics"
+        },
+        {
+            "base_atter": "P",
+            "name": "Dodge"
+        },
+        {
+            "base_atter": "F",
+            "name": "Swimming"
+        },
+        {
+            "base_atter": "F",
+            "name": "Climbing"
+        },
+        {
+            "base_atter": "F",
+            "name": "Running"
+        },
+        {
+            "base_atter": "F",
+            "name": "Conditioning"
+        }
+    ],
+    "awareness": [
+        {
+            "base_atter": "P",
+            "name": "Perception"
+        },
+        {
+            "base_atter": "C",
+            "name": "Intuition"
+        },
+        {
+            "base_atter": "I",
+            "name": "Investigation"
+        },
+        {
+            "base_atter": "I",
+            "name": "Deduction"
+        },
+        {
+            "base_atter": "I",
+            "name": "Comprehension"
+        }
+    ],
+    "martial": [
+        {
+            "base_atter": "P",
+            "name": "Wrestling"
+        },
+        {
+            "base_atter": "P",
+            "name": "Melee_Light"
+        },
+        {
+            "base_atter": "P",
+            "name": "Melee_Simple"
+        },
+        {
+            "base_atter": "P",
+            "name": "Ranged_Heavy"
+        },
+        {
+            "base_atter": "P",
+            "name": "Ranged_Light"
+        },
+        {
+            "base_atter": "P",
+            "name": "Ranged_Guns"
+        },
+        {
+            "base_atter": "P",
+            "name": "Ranged_Simple"
+        },
+        {
+            "base_atter": "P",
+            "name": "Unarmed"
+        },
+        {
+            "base_atter": "P",
+            "name": "Thrown"
+        },
+        {
+            "base_atter": "F",
+            "name": "Armor_Simple"
+        },
+        {
+            "base_atter": "F",
+            "name": "Armor_Light"
+        },
+        {
+            "base_atter": "F",
+            "name": "Armor_Heavy"
+        },
+        {
+            "base_atter": "F",
+            "name": "Shield"
+        },
+        {
+            "base_atter": "F",
+            "name": "Melee_Heavy"
+        }
+    ],
+    "social": [
+        {
+            "base_atter": "C",
+            "name": "Persuasion"
+        },
+        {
+            "base_atter": "C",
+            "name": "Manipulation"
+        },
+        {
+            "base_atter": "C",
+            "name": "Performance"
+        },
+        {
+            "base_atter": "I",
+            "name": "Strategy"
+        },
+        {
+            "base_atter": "C",
+            "name": "Etiquette"
+        },
+        {
+            "base_atter": "C",
+            "name": "Intimidation"
+        },
+        {
+            "base_atter": "F",
+            "name": "Resolve"
+        },
+        {
+            "base_atter": "P",
+            "name": "Escamotage"
+        }
+    ],
+    "tradecraft": [
+        {
+            "base_atter": "I",
+            "name": "Bushcraft"
+        },
+        {
+            "base_atter": "I",
+            "name": "Philosophy"
+        },
+        {
+            "base_atter": "I",
+            "name": "Tracking"
+        },
+        {
+            "base_atter": "C",
+            "name": "Art"
+        },
+        {
+            "base_atter": "I",
+            "name": "Artifice"
+        },
+        {
+            "base_atter": "C",
+            "name": "Poetry"
+        },
+        {
+            "base_atter": "I",
+            "name": "Smithing"
+        },
+        {
+            "base_atter": "I",
+            "name": "Linguistics"
+        },
+        {
+            "base_atter": "I",
+            "name": "Carpentry"
+        },
+        {
+            "base_atter": "P",
+            "name": "Demolition"
+        },
+        {
+            "base_atter": "I",
+            "name": "Geography"
+        },
+        {
+            "base_atter": "I",
+            "name": "Masonry"
+        },
+        {
+            "base_atter": "I",
+            "name": "Cooking"
+        },
+        {
+            "base_atter": "I",
+            "name": "Surgery"
+        },
+        {
+            "base_atter": "P",
+            "name": "Lockpicking"
+        },
+        {
+            "base_atter": "P",
+            "name": "Woodcutting"
+        },
+        {
+            "base_atter": "I",
+            "name": "Brewing"
+        },
+        {
+            "base_atter": "I",
+            "name": "Sewing"
+        },
+        {
+            "base_atter": "C",
+            "name": "Musicmaking"
+        },
+        {
+            "base_atter": "I",
+            "name": "Law"
+        },
+        {
+            "base_atter": "I",
+            "name": "Herbalism"
+        },
+        {
+            "base_atter": "I",
+            "name": "Literacy"
+        },
+        {
+            "base_atter": "I",
+            "name": "Sailing"
+        },
+        {
+            "base_atter": "I",
+            "name": "Appraisal"
+        }
+    ],
+    "wisdom": [
+        {
+            "base_atter": "I",
+            "name": "History"
+        },
+        {
+            "base_atter": "I",
+            "name": "Religion"
+        },
+        {
+            "base_atter": "I",
+            "name": "Lore"
+        },
+        {
+            "base_atter": "I",
+            "name": "Medicine"
+        },
+        {
+            "base_atter": "I",
+            "name": "Nature"
+        },
+        {
+            "base_atter": "I",
+            "name": "Animal_Handling"
+        },
+        {
+            "base_atter": "I",
+            "name": "Mathematics"
+        },
+        {
+            "base_atter": "I",
+            "name": "Astrology"
+        },
+        {
+            "base_atter": "I",
+            "name": "Astronomy"
+        },
+        {
+            "base_atter": "I",
+            "name": "Memory"
+        }
+    ]
+}
