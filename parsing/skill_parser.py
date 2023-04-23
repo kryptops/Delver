@@ -41,7 +41,7 @@ for splitText in dataByLine:
     jRawData = {}
     fieldSplit = splitText.split(".")
     baseSplit = fieldSplit[1].replace(")","").split("(")
-    jRawData["base_atter"] = baseSplit[1]
+    jRawData["base_attr"] = baseSplit[1]
     jRawData["name"] = baseSplit[0]
     jDict[fieldSplit[0].lower()].append(jRawData)
 
