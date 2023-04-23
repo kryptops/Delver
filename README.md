@@ -2,9 +2,11 @@
 
 ## Summary
 
-Welcome to Delver! An open-source TTRPG designed for free play and licensed under the MIT License. What all this means is that if you wish to add homebrew to the game or edit it you may do so via a pull request (more information under the contributing section) or a fork.
+Welcome to Delver! An open-source TTRPG designed for free play and licensed under the MIT License. 
 
-As you read through you may gain the sense that the system is somewhat generic and–while we have made efforts to create mechanics that are unique–it moderately resembles other systems you have played. This is because Delver exists to provide a free experience that will feel similar to other systems you have played that can be collaboratively developed and expanded.
+Delver was developed to ensure a free TTRPG with robust mechanics and the potential for technological enablement will always be available for the tabletop, and to utilize the creativity of TTRPG players and game masters for growth. Thus, the majority of Delver's mechanical framework has been ported to JSON so that character creation, difficulty estimation and calculation, worldbuilding, loot generation, and much more can be made into tools that can take the burden off players and game masters (GMs).
+
+If you want to find out how you can contribute, navigate to the ```Contributing``` section further down in the README.
 
 ## Core Mechanics
 
