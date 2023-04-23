@@ -48,5 +48,5 @@ Contribution is designed to utilize github's features to make it possible for an
 ### Submitting a pull request for new features you have created
 
 1. Fork the Delver repository
-2. Implement and test your feature
+2. Implement and test your feature in the ```homebrew``` branch
 3. Submit pull request, describing the feature
