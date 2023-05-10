@@ -75,7 +75,7 @@ def getCharRace():
     print("[+] Selected {}...".format(charRaceSelection))
     
 def getCharOccupation():
-
+    
 
 def getCharBonuses():
 
