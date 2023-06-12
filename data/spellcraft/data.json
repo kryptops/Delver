@@ -1,0 +1,435 @@
+{
+    "alchemy_verbs": [
+        {
+            "Usage": "Enlarge or intensify by 1/2",
+            "Verb": "Luxuux"
+        },
+        {
+            "Usage": "Shrink or lessen by 1/2",
+            "Verb": "Uxxulu"
+        },
+        {
+            "Usage": "Invest distilled essence into target",
+            "Verb": "Rylyrl"
+        },
+        {
+            "Usage": "Transmute material composition",
+            "Verb": "Lugch"
+        },
+        {
+            "Usage": "Change shape",
+            "Verb": "Uxthlam"
+        },
+        {
+            "Usage": "Divest invested essence from target",
+            "Verb": "Yrlryl"
+        },
+        {
+            "Usage": "Distill essence from target",
+            "Verb": "Yrlyrg"
+        }
+    ],
+    "apotropaism_verbs": [
+        {
+            "Usage": "Inflict the restrained condition",
+            "Verb": "Ylduth"
+        },
+        {
+            "Usage": "Inflict the prone condition",
+            "Verb": "Yrgtsa"
+        },
+        {
+            "Usage": "Inflict the stunned condition",
+            "Verb": "Lmucth"
+        },
+        {
+            "Usage": "Negate a magical effect, can reduce the action point cost of a spell to 1 if the mana cost is less than 7.",
+            "Verb": "Olmolg"
+        },
+        {
+            "Usage": "Entities have disadvantage on awareness checks against the target, can be used up to 3 times to impose maximum disadvantage.",
+            "Verb": "Tsalmu"
+        },
+        {
+            "Usage": "Convey a one-time damage reduction to the target equal to the number of times the word is used (no armor saves)",
+            "Verb": "Sothuth"
+        },
+        {
+            "Usage": "Increase target's armor value by an amount equal to the number of times the word is used",
+            "Verb": "Xuluj"
+        },
+        {
+            "Usage": "Give the subject advantage on awareness checks against a target, can be used up to 3 times to convey maximum advantage.",
+            "Verb": "Yrglmu"
+        },
+        {
+            "Usage": "Bind the spell to a surface in the form of a glyph including spells of other schools",
+            "Verb": "Uthbo"
+        },
+        {
+            "Usage": "Glyph activates when it detects an entity, item, or object's presence",
+            "Verb": "Xuux"
+        },
+        {
+            "Usage": "Return the target to its native dimension",
+            "Verb": "Thlamuth"
+        }
+    ],
+    "conjuration_verbs": [
+        {
+            "Usage": "Conjure an entity, item, or object",
+            "Verb": "Lyuthlu"
+        },
+        {
+            "Usage": "Direct conjured entity or entities to ignore an item or entity",
+            "Verb": "Thothuk"
+        },
+        {
+            "Usage": "Enable conjured object or entities to inflict the suffocating condition",
+            "Verb": "Ynnux"
+        },
+        {
+            "Usage": "Direct conjured entity or entities to grapple a target",
+            "Verb": "Xubo"
+        },
+        {
+            "Usage": "Direct conjured entity or entities to surround a target",
+            "Verb": "Tsathlu"
+        },
+        {
+            "Usage": "Direct conjured entity or entities to follow a target",
+            "Verb": "Shublu"
+        },
+        {
+            "Usage": "Direct conjured entity or entities to attack a target",
+            "Verb": "Sothuah"
+        },
+        {
+            "Usage": "Direct conjured entity or entities to defend a target",
+            "Verb": "Ymnuoh"
+        }
+    ],
+    "divination_verbs": [
+        {
+            "Usage": "Determine location",
+            "Verb": "Thoguth"
+        },
+        {
+            "Usage": "Remove illusions or enchantments designed to disguise",
+            "Verb": "Shuthlu"
+        },
+        {
+            "Usage": "Detect based on movement",
+            "Verb": "Ynthlay"
+        },
+        {
+            "Usage": "View or see remotely",
+            "Verb": "Gcholg"
+        },
+        {
+            "Usage": "Enter the dimension of dreams",
+            "Verb": "Shubuth"
+        },
+        {
+            "Usage": "Seek insight a number of hours into the future equal to the number of times the word is used",
+            "Verb": "Thluuj"
+        },
+        {
+            "Usage": "Seek insight a number of hours into past equal to the number of times the word is used",
+            "Verb": "Shuuj"
+        },
+        {
+            "Usage": "Inflict disadvantage on a target for 10 seconds",
+            "Verb": "Thlucth"
+        },
+        {
+            "Usage": "Receive messages from a mind or hear passive thoughts",
+            "Verb": "Xulnlu"
+        }
+    ],
+    "eldritch_additional_mana_costs": [
+        {
+            "Cost": "2",
+            "Modifier": "Gchynolg"
+        },
+        {
+            "Cost": "2",
+            "Modifier": "Yolmu"
+        },
+        {
+            "Cost": "3",
+            "Modifier": "Lmugur"
+        },
+        {
+            "Cost": "3",
+            "Modifier": "Cognate verbs"
+        }
+    ],
+    "eldritch_modifiers": [
+        {
+            "Eldritch Modifier": "Ynryl",
+            "Translation": "Suddenly",
+            "Usage": "Duration, immediate"
+        },
+        {
+            "Eldritch Modifier": "Yrguoh",
+            "Translation": "Lingeringly",
+            "Usage": "Duration, 15 <units>, where units are seconds, minutes, or hours based on whether the word is used once, twice or three times."
+        },
+        {
+            "Eldritch Modifier": "Ynuah",
+            "Translation": "Perpetually",
+            "Usage": "Duration, perpetual until dispelled, cannot be used to describe how long a target is affected by condition or damage over time, requires mnunlu"
+        },
+        {
+            "Eldritch Modifier": "Mnunlu",
+            "Translation": "Until",
+            "Usage": "Temporal qualifier, generally makes duration conditional."
+        },
+        {
+            "Eldritch Modifier": "Yrlyo",
+            "Translation": "Before",
+            "Usage": "Indicates ahead of, in front of, prior to"
+        },
+        {
+            "Eldritch Modifier": "Yothlu",
+            "Translation": "Behind",
+            "Usage": "Indicates behind, after"
+        },
+        {
+            "Eldritch Modifier": "Yogch",
+            "Translation": "Left",
+            "Usage": "Indicates location to the left"
+        },
+        {
+            "Eldritch Modifier": "Gurgch",
+            "Translation": "Right",
+            "Usage": "Indicates location to the right"
+        },
+        {
+            "Eldritch Modifier": "Yrlthu",
+            "Translation": "Above",
+            "Usage": "Indicates location above"
+        },
+        {
+            "Eldritch Modifier": "Lyuthu",
+            "Translation": "Below",
+            "Usage": "Indicates location below"
+        },
+        {
+            "Eldritch Modifier": "Yntsa",
+            "Translation": "Upon",
+            "Usage": "Indicates attachment to, placement on"
+        },
+        {
+            "Eldritch Modifier": "Rylcth",
+            "Translation": "Like",
+            "Usage": "Similar to, in the likeness of"
+        },
+        {
+            "Eldritch Modifier": "Cthyn",
+            "Translation": "Within",
+            "Usage": "Inside of, can be used to indicate a closed space no more than 15 feet in any dimension"
+        },
+        {
+            "Eldritch Modifier": "Ukthu",
+            "Translation": "Away",
+            "Usage": "15 <units>, where units are feet, yards, or miles based on whether the word is used once, twice, or three times"
+        },
+        {
+            "Eldritch Modifier": "Gchynolg",
+            "Translation": "Further",
+            "Usage": "15 more units of distance"
+        },
+        {
+            "Eldritch Modifier": "Yolmu",
+            "Translation": "Enduring",
+            "Usage": "15 more units of duration"
+        },
+        {
+            "Eldritch Modifier": "Lmugur",
+            "Translation": "Greater",
+            "Usage": "1 additional spell die, especially of damage, applies to all spell dice used in a spell"
+        },
+        {
+            "Eldritch Modifier": "Ulmlyu",
+            "Translation": "Friendly",
+            "Usage": "Entity disposition is friendly respective to a specified entity"
+        },
+        {
+            "Eldritch Modifier": "Uylmlu",
+            "Translation": "Hostile",
+            "Usage": "Entity disposition is hostile respective to a specified entity"
+        }
+    ],
+    "eldritch_pronouns": [
+        {
+            "Eldritch Pronoun": "Yn",
+            "Translation": "I/Me"
+        },
+        {
+            "Eldritch Pronoun": "Ia",
+            "Translation": "You"
+        },
+        {
+            "Eldritch Pronoun": "Tsa",
+            "Translation": "It"
+        },
+        {
+            "Eldritch Pronoun": "Yog",
+            "Translation": "Him"
+        },
+        {
+            "Eldritch Pronoun": "Yib",
+            "Translation": "Her"
+        }
+    ],
+    "enchantment_verbs": [
+        {
+            "Usage": "Inflict the charmed condition",
+            "Verb": "Yrgorg"
+        },
+        {
+            "Usage": "Inflict the frightened condition",
+            "Verb": "Thotholg"
+        },
+        {
+            "Usage": "Reduce insanity by an amount equal to the number of times the word is used",
+            "Verb": "Sothuk"
+        },
+        {
+            "Usage": "Give entity that you have charmed instructions at a cost of 1 mana per action point expended",
+            "Verb": "Hlalyu"
+        },
+        {
+            "Usage": "Convince entity of a belief they do not hold",
+            "Verb": "Shutsa"
+        },
+        {
+            "Usage": "Enhance the attractiveness of something",
+            "Verb": "Rylcth"
+        },
+        {
+            "Usage": "Send messages to another mind",
+            "Verb": "Nluxul"
+        },
+        {
+            "Usage": "Receive messages from another mind",
+            "Verb": "Xulnlu"
+        },
+        {
+            "Usage": "Inflict 1 spell die of psychic damage",
+            "Verb": "Thoguj"
+        }
+    ],
+    "illusion_verbs": [
+        {
+            "Usage": "Make a visual illusion less than 30 feet in size that has no physical substance, emits no sounds, smells, or substantial ambient light",
+            "Verb": "Othuth"
+        },
+        {
+            "Usage": "Make an illusion emit an illusory light within 15 feet",
+            "Verb": "Mnuthlu"
+        },
+        {
+            "Usage": "Make an illusion emit an illusory scent within 15 feet",
+            "Verb": "Hlagur"
+        },
+        {
+            "Usage": "Make an illusion emit an illusory sound within 15 feet",
+            "Verb": "Gchuj"
+        },
+        {
+            "Usage": "Use an illusion to apparently intensify, increase, or enlarge",
+            "Verb": "Cthux"
+        },
+        {
+            "Usage": "Use an illusion to apparently decrease, lessen, or reduce",
+            "Verb": "Lyulmu"
+        },
+        {
+            "Usage": "Replicate the appearance of something no larger than 10 feet in size",
+            "Verb": "Lmuuth"
+        },
+        {
+            "Usage": "Give an illusion the ability to inflict the surprised condition",
+            "Verb": "Thunix"
+        },
+        {
+            "Usage": "Give an illusion apparent physical substance, so that it appears real to the touch but cannot do damage",
+            "Verb": "Lyuuoh"
+        },
+        {
+            "Usage": "Give an illusion the ability to inflict 1 spell die of psychic damage",
+            "Verb": "Lyuyib"
+        }
+    ],
+    "necromancy_verbs": [
+        {
+            "Usage": "Inflict 1 spell die of necrotic damage",
+            "Verb": "Yibuj"
+        },
+        {
+            "Usage": "Inflict specific disease for 5 hours",
+            "Verb": "Nuxymn"
+        },
+        {
+            "Usage": "Inflict the diseased condition",
+            "Verb": "Othlyu"
+        },
+        {
+            "Usage": "Inflict the poisoned condition",
+            "Verb": "Olgoth"
+        },
+        {
+            "Usage": "Inflict the bleeding condition",
+            "Verb": "Olmnlu"
+        },
+        {
+            "Usage": "Regain health equal to the amount on 1 spell die used by this spell to damage an entity",
+            "Verb": "Nlutsa"
+        },
+        {
+            "Usage": "Cause a corpse or item to be animated",
+            "Verb": "Ynhla"
+        },
+        {
+            "Usage": "Restore health points equal to 1 spell die",
+            "Verb": "Lyusoth"
+        }
+    ],
+    "olethromancy_verbs": [
+        {
+            "Usage": "Inflict 1 spell die of psychic damage",
+            "Verb": "Ymnnlu"
+        },
+        {
+            "Usage": "Inflict 1 spell die of cold damage",
+            "Verb": "Bohla"
+        },
+        {
+            "Usage": "Inflict 1 spell die of force damage",
+            "Verb": "Hlaxu"
+        },
+        {
+            "Usage": "Inflict 1 spell die of acid damage",
+            "Verb": "Yoguk"
+        },
+        {
+            "Usage": "Inflict 1 spell die of lightning damage",
+            "Verb": "Lmuthlam"
+        },
+        {
+            "Usage": "Inflict 1 spell die of thunder damage",
+            "Verb": "Ynyib"
+        },
+        {
+            "Usage": "Inflict 1 spell die of radiant damage",
+            "Verb": "Gchuth"
+        },
+        {
+            "Usage": "Inflict the prone condition",
+            "Verb": "Hlulmu"
+        }
+    ]
+}
