@@ -331,366 +331,289 @@
     "gear_armor_detail": [
         {
             "Armor": "Hide",
-            "Keywords": "Simple",
-            "Value": "1"
-        },
-        {
-            "Armor": "Gambeson",
+            "Cost": "25 copper",
             "Keywords": "Simple",
             "Value": "2"
         },
         {
-            "Armor": "Leather",
-            "Keywords": "Simple",
-            "Value": "3"
+            "Armor": "Gambeson",
+            "Cost": "25 copper",
+            "Keywords": "Simple, Additional",
+            "Value": "2"
         },
         {
-            "Armor": "Scale Mail",
+            "Armor": "Shield",
+            "Cost": "25 copper",
+            "Keywords": "Simple, Additional, Held",
+            "Value": "2"
+        },
+        {
+            "Armor": "Helm",
+            "Cost": "25 copper",
+            "Keywords": "Simple, Additional",
+            "Value": "2"
+        },
+        {
+            "Armor": "Greatshield",
+            "Cost": "2550 copper",
+            "Keywords": "Light, Additional, Held",
+            "Value": "4"
+        },
+        {
+            "Armor": "Great Helm",
+            "Cost": "2550 copper",
+            "Keywords": "Light, Additional",
+            "Value": "4"
+        },
+        {
+            "Armor": "Leather",
+            "Cost": "2550 copper",
             "Keywords": "Light",
             "Value": "4"
         },
         {
-            "Armor": "Cuirass",
-            "Keywords": "Light",
-            "Value": "5"
+            "Armor": "Close Helm",
+            "Cost": "75 silver",
+            "Keywords": "Medium, Additional",
+            "Value": "6"
         },
         {
-            "Armor": "Half Plate",
-            "Keywords": "Light",
-            "Value": "7"
+            "Armor": "Cuirass",
+            "Cost": "125 silver",
+            "Keywords": "Light, Plated",
+            "Value": "8"
         },
         {
             "Armor": "Chainmail",
-            "Keywords": "Heavy (Stealth)",
-            "Value": "9"
+            "Cost": "150 silver",
+            "Keywords": "Heavy",
+            "Value": "8"
         },
         {
-            "Armor": "Lamellar",
-            "Keywords": "Heavy (Stealth)",
+            "Armor": "Breastplate",
+            "Cost": "600 silver",
+            "Keywords": "Medium, Plated",
             "Value": "10"
         },
         {
             "Armor": "Plate",
-            "Keywords": "Heavy (Stealth)",
+            "Cost": "1150 silver",
+            "Keywords": "Heavy, Plated",
             "Value": "12"
+        }
+    ],
+    "gear_armor_tier": [
+        {
+            "Armor Value": "2",
+            "Base Cost": "25 copper",
+            "Tier": "1"
         },
         {
-            "Armor": "Sallet",
-            "Keywords": "Simple, Additional",
-            "Value": "1"
+            "Armor Value": "4",
+            "Base Cost": "50 copper",
+            "Tier": "2"
         },
         {
-            "Armor": "Great Helm",
-            "Keywords": "Simple, Additional",
-            "Value": "2"
+            "Armor Value": "6",
+            "Base Cost": "25 silver",
+            "Tier": "3"
         },
         {
-            "Armor": "Close Helm",
-            "Keywords": "Heavy (Perception), Additional",
-            "Value": "3"
+            "Armor Value": "8",
+            "Base Cost": "50 silver",
+            "Tier": "4"
         },
         {
-            "Armor": "Shield",
-            "Keywords": "Simple, Additional",
-            "Value": "2"
+            "Armor Value": "10",
+            "Base Cost": "5 gold",
+            "Tier": "5"
+        },
+        {
+            "Armor Value": "12",
+            "Base Cost": "10 gold",
+            "Tier": "6"
+        }
+    ],
+    "gear_armor_tier_bonus_keywords": [
+        {
+            "Additional Cost": "50 silver",
+            "Compatibility": "medium, heavy",
+            "Keyword": "Plated",
+            "Tier Bonus": "2"
+        },
+        {
+            "Additional Cost": "25 silver",
+            "Compatibility": "additional, held",
+            "Keyword": "Light",
+            "Tier Bonus": "1"
+        },
+        {
+            "Additional Cost": "50 silver",
+            "Compatibility": "plated, additional",
+            "Keyword": "Medium",
+            "Tier Bonus": "2"
+        },
+        {
+            "Additional Cost": "1 gold",
+            "Compatibility": "plated",
+            "Keyword": "Heavy",
+            "Tier Bonus": "3"
         }
     ],
     "gear_weapon_detail": [
         {
-            "Damage": "1d8 bludgeoning",
-            "Hands": "1",
-            "Keywords": "Simple, light",
-            "Range": "--",
-            "Reach": "5",
-            "Weapon": "Club"
-        },
-        {
-            "Damage": "1d12 bludgeoning",
-            "Hands": "2",
-            "Keywords": "Simple, heavy",
-            "Range": "--",
-            "Reach": "5",
-            "Weapon": "War club"
-        },
-        {
-            "Damage": "1d6 piercing",
-            "Hands": "1",
-            "Keywords": "Simple, light, thrown",
-            "Range": "30",
-            "Reach": "5",
+            "Cost": "Simple, Thrown, Discrete",
+            "Damage": "1d8",
+            "Keywords": "piercing",
             "Weapon": "Dagger"
         },
         {
-            "Damage": "2d4 slashing",
-            "Hands": "2",
-            "Keywords": "Simple, heavy",
-            "Range": "--",
-            "Reach": "10",
-            "Weapon": "Scythe"
-        },
-        {
-            "Damage": "2d4 slashing",
-            "Hands": "1",
-            "Keywords": "Simple, light, fortitude, thrown",
-            "Range": "20",
-            "Reach": "5",
+            "Cost": "1 silver",
+            "Damage": "1d10 slashing",
+            "Keywords": "Simple, Thrown",
             "Weapon": "Handaxe"
         },
         {
-            "Damage": "1d8 bludgeoning",
-            "Hands": "1",
-            "Keywords": "Simple, light",
-            "Range": "--",
-            "Reach": "5",
-            "Weapon": "Hammer"
-        },
-        {
-            "Damage": "2d4 slashing",
-            "Hands": "1",
-            "Keywords": "Simple, light",
-            "Range": "--",
-            "Reach": "5",
-            "Weapon": "Sickle"
-        },
-        {
-            "Damage": "1d8 bludgeoning",
-            "Hands": "2",
-            "Keywords": "Simple, light",
-            "Range": "--",
-            "Reach": "10",
+            "Cost": "1 silver",
+            "Damage": "1d10 bludgeoning",
+            "Keywords": "Simple",
             "Weapon": "Quarterstaff"
         },
         {
-            "Damage": "1d8 bludgeoning",
-            "Hands": "1",
-            "Keywords": "Simple, light",
-            "Range": "--",
-            "Reach": "5",
-            "Weapon": "Mace"
-        },
-        {
-            "Damage": "1d6 piercing",
-            "Hands": "2",
-            "Keywords": "Simple, fortitude, light, thrown",
-            "Range": "--",
-            "Reach": "10",
+            "Cost": "Simple, Thrown, Polearm",
+            "Damage": "1d8",
+            "Keywords": "piercing",
             "Weapon": "Spear"
         },
         {
-            "Damage": "1d6 piercing",
-            "Hands": "2",
-            "Keywords": "Simple, light",
-            "Range": "200",
-            "Reach": "--",
-            "Weapon": "Shortbow"
+            "Cost": "25 copper",
+            "Damage": "1d8 piercing",
+            "Keywords": "Simple, Range",
+            "Weapon": "Hunting Bow"
         },
         {
-            "Damage": "1d6 piercing",
-            "Hands": "1",
-            "Keywords": "Simple, light",
-            "Range": "45",
-            "Reach": "--",
-            "Weapon": "Blowdart"
-        },
-        {
-            "Damage": "1d6 bludgeoning",
-            "Hands": "1",
-            "Keywords": "Simple, light",
-            "Range": "90",
-            "Reach": "--",
-            "Weapon": "Sling"
-        },
-        {
-            "Damage": "1d6 piercing",
-            "Hands": "2",
-            "Keywords": "Simple, light",
-            "Range": "250",
-            "Reach": "--",
-            "Weapon": "Crossbow"
-        },
-        {
-            "Damage": "1d8 bludgeoning",
-            "Hands": "1",
+            "Cost": "125 copper",
+            "Damage": "1d10 piercing",
             "Keywords": "Light",
-            "Range": "--",
-            "Reach": "10",
-            "Weapon": "Flail"
-        },
-        {
-            "Damage": "3d4 slashing",
-            "Hands": "1|2",
-            "Keywords": "Heavy",
-            "Range": "--",
-            "Reach": "5",
-            "Weapon": "Battleaxe"
-        },
-        {
-            "Damage": "1d10 piercing",
-            "Hands": "2",
-            "Keywords": "Heavy",
-            "Range": "--",
-            "Reach": "10",
-            "Weapon": "Glaive"
-        },
-        {
-            "Damage": "3d4 slashing",
-            "Hands": "2",
-            "Keywords": "Heavy",
-            "Range": "--",
-            "Reach": "5",
-            "Weapon": "Greataxe"
-        },
-        {
-            "Damage": "3d4 slashing/1d10 piercing",
-            "Hands": "2",
-            "Keywords": "Heavy",
-            "Range": "--",
-            "Reach": "10",
-            "Weapon": "Billhook"
-        },
-        {
-            "Damage": "3d4 slashing",
-            "Hands": "2",
-            "Keywords": "Heavy",
-            "Range": "--",
-            "Reach": "5",
-            "Weapon": "Greatsword"
-        },
-        {
-            "Damage": "3d4 slashing",
-            "Hands": "2",
-            "Keywords": "Heavy",
-            "Range": "--",
-            "Reach": "10",
-            "Weapon": "Halberd"
-        },
-        {
-            "Damage": "1d10 piercing",
-            "Hands": "2",
-            "Keywords": "Heavy",
-            "Range": "--",
-            "Reach": "10",
-            "Weapon": "Lance"
-        },
-        {
-            "Damage": "1d10 piercing",
-            "Hands": "1|2",
-            "Keywords": "Heavy, physique",
-            "Range": "--",
-            "Reach": "5",
-            "Weapon": "Longsword"
-        },
-        {
-            "Damage": "3d4 slashing",
-            "Hands": "1|2",
-            "Keywords": "Heavy, physique",
-            "Range": "--",
-            "Reach": "5",
-            "Weapon": "Katana"
-        },
-        {
-            "Damage": "2d6 bludgeoning",
-            "Hands": "1|2",
-            "Keywords": "Heavy",
-            "Range": "--",
-            "Reach": "5",
-            "Weapon": "Morningstar"
-        },
-        {
-            "Damage": "1d10 piercing",
-            "Hands": "2",
-            "Keywords": "Heavy",
-            "Range": "--",
-            "Reach": "15",
-            "Weapon": "Pike"
-        },
-        {
-            "Damage": "1d10 piercing",
-            "Hands": "1",
-            "Keywords": "Physique",
-            "Range": "--",
-            "Reach": "5",
-            "Weapon": "Rapier"
-        },
-        {
-            "Damage": "1d6 slashing",
-            "Hands": "1",
-            "Keywords": "Light, physique",
-            "Range": "--",
-            "Reach": "5",
             "Weapon": "Shortsword"
         },
         {
-            "Damage": "1d10 piercing",
-            "Hands": "1|2",
-            "Keywords": "Heavy, physique, thrown",
-            "Range": "80",
-            "Reach": "10",
-            "Weapon": "Trident"
+            "Cost": "Light",
+            "Damage": "2d6",
+            "Keywords": "slashing",
+            "Weapon": "Battle Axe"
         },
         {
-            "Damage": "1d10 piercing",
-            "Hands": "1|2",
-            "Keywords": "Heavy",
-            "Range": "--",
-            "Reach": "5",
-            "Weapon": "Mattock"
-        },
-        {
-            "Damage": "2d6 bludgeoning",
-            "Hands": "1",
-            "Keywords": "Fortitude",
-            "Range": "--",
-            "Reach": "5",
+            "Cost": "Light",
+            "Damage": "2d6",
+            "Keywords": "bludgeoning",
             "Weapon": "Warhammer"
         },
         {
+            "Cost": "125 copper",
             "Damage": "1d10 piercing",
-            "Hands": "2",
-            "Keywords": "Heavy",
-            "Range": "300",
-            "Reach": "--",
-            "Weapon": "War crossbow"
-        },
-        {
-            "Damage": "1d10 piercing",
-            "Hands": "2",
-            "Keywords": "Heavy",
-            "Range": "350",
-            "Reach": "--",
+            "Keywords": "Light, Long Range",
             "Weapon": "Longbow"
         },
         {
-            "Damage": "1d6 piercing",
-            "Hands": "1",
-            "Keywords": "Light, physique, thrown",
-            "Range": "100",
-            "Reach": "--",
-            "Weapon": "Javelin"
+            "Cost": "Heavy, Long Range",
+            "Damage": "2d6",
+            "Keywords": "piercing",
+            "Weapon": "Crossbow"
         },
         {
+            "Cost": "Heavy",
+            "Damage": "2d6",
+            "Keywords": "piercing",
+            "Weapon": "Longsword"
+        },
+        {
+            "Cost": "110 silver",
+            "Damage": "1d12 slashing",
+            "Keywords": "Heavy",
+            "Weapon": "Greataxe"
+        },
+        {
+            "Cost": "110 silver",
+            "Damage": "1d12 slashing",
+            "Keywords": "Heavy",
+            "Weapon": "Greatsword"
+        },
+        {
+            "Cost": "Heavy, Polearm",
+            "Damage": "2d6",
+            "Keywords": "piercing",
+            "Weapon": "Glaive"
+        },
+        {
+            "Cost": "110 silver",
+            "Damage": "1d12 bludgeoning",
+            "Keywords": "Heavy",
+            "Weapon": "Maul"
+        },
+        {
+            "Cost": "20025 copper",
             "Damage": "1d12 piercing",
-            "Hands": "1",
-            "Keywords": "Light, Gun",
-            "Range": "60",
-            "Reach": "--",
-            "Weapon": "Pistol"
-        },
-        {
-            "Damage": "1d20 piercing",
-            "Hands": "1",
-            "Keywords": "Heavy, Gun",
-            "Range": "90",
-            "Reach": "--",
+            "Keywords": "Light, Gun, Range",
             "Weapon": "Wheellock"
         },
         {
+            "Cost": "610 silver",
             "Damage": "1d20 piercing",
-            "Hands": "2",
-            "Keywords": "Heavy, Gun",
-            "Range": "120",
-            "Reach": "--",
+            "Keywords": "Heavy, Gun, Long Range",
             "Weapon": "Musket"
+        }
+    ],
+    "gear_weapon_tier": [
+        {
+            "Base Cost": "25 copper",
+            "Die": "1d8",
+            "Simple Damage Type": "Piercing",
+            "Tier": "1"
+        },
+        {
+            "Base Cost": "1 silver",
+            "Die": "1d10",
+            "Simple Damage Type": "Slashing, Bludgeoning",
+            "Tier": "2"
+        },
+        {
+            "Base Cost": "10 silver",
+            "Die": "2d6",
+            "Simple Damage Type": "--",
+            "Tier": "3"
+        },
+        {
+            "Base Cost": "1 gold",
+            "Die": "1d12",
+            "Simple Damage Type": "--",
+            "Tier": "4"
+        },
+        {
+            "Base Cost": "5 gold",
+            "Die": "1d20",
+            "Simple Damage Type": "--",
+            "Tier": "5"
+        }
+    ],
+    "gear_weapon_tier_bonus_keywords": [
+        {
+            "Add. Cost": "25 cop.",
+            "Compatibility": "Gun, Thrown, Range, Long Range, Melee",
+            "Increase": "1",
+            "Keyword": "Light"
+        },
+        {
+            "Add. Cost": "10 sil.",
+            "Compatibility": "Gun, Long Range, Polearm, Melee",
+            "Increase": "2",
+            "Keyword": "Heavy"
+        },
+        {
+            "Add. Cost": "1 gold",
+            "Compatibility": "Heavy, Light, Range, Long Range",
+            "Increase": "2",
+            "Keyword": "Gun"
         }
     ],
     "item_quality_bonus": [
@@ -838,7 +761,7 @@
             "Proficiency": "Smithing or Artifice"
         },
         {
-            "Equipment": "Carpenter's tools",
+            "Equipment": "Carpenter\u00e2\u20ac\u2122s tools",
             "Occupation": "Carpenter",
             "Proficiency": "Carpentry"
         },
@@ -933,17 +856,17 @@
             "Proficiency": "Martial (pick 1)"
         },
         {
-            "Equipment": "Forger's tools",
+            "Equipment": "Forger\u00e2\u20ac\u2122s tools",
             "Occupation": "Charlatan",
             "Proficiency": "Social (pick 1)"
         },
         {
-            "Equipment": "Herbalist's tools",
+            "Equipment": "Herbalist\u00e2\u20ac\u2122s tools",
             "Occupation": "Healer",
             "Proficiency": "Herbalism or Medicine"
         },
         {
-            "Equipment": "Cartographer's tools",
+            "Equipment": "Cartographer\u00e2\u20ac\u2122s tools",
             "Occupation": "Cartographer",
             "Proficiency": "Cartography and a Language"
         }
@@ -951,19 +874,19 @@
     "pack_detail": [
         {
             "Contents": "Tinderbox, 5 torches, 5 copper, bedroll, 5 days worth of rations",
-            "Pack": "Itinerant's Pack"
+            "Pack": "Itinerant\u00e2\u20ac\u2122s Pack"
         },
         {
             "Contents": "Lantern, oil flask (5 lantern uses), bedroll, tent, 10 copper",
-            "Pack": "Merchant's Pack"
+            "Pack": "Merchant\u00e2\u20ac\u2122s Pack"
         },
         {
             "Contents": "5 candles, 5 copper, 1 healing potion, bedroll, ledger, ink, and quill",
-            "Pack": "Hermit's Pack"
+            "Pack": "Hermit\u00e2\u20ac\u2122s Pack"
         },
         {
             "Contents": "5 torches, 5 copper, 3 days worth of rations, bedroll, pitons, 60 feet of rope",
-            "Pack": "Delver's Pack"
+            "Pack": "Delver\u00e2\u20ac\u2122s Pack"
         }
     ],
     "progression_task_bymilestone": [
@@ -1060,47 +983,47 @@
     ],
     "race_detail": [
         {
-            "Feature": "Additional skill, half proficiency",
+            "Feature": "2 additional skills, half proficiency",
             "Race": "Human"
         },
         {
-            "Feature": "Darksight, 30 ft.",
+            "Feature": "Darksight, 30 ft",
             "Race": "Elf"
         },
         {
-            "Feature": "Additional skill, half proficiency",
+            "Feature": "Full proficiency in conditioning, wrestling, or bushcraft",
             "Race": "Orc"
         },
         {
-            "Feature": "Resistant to damage from spells",
+            "Feature": "2 additional skills, half proficiency",
             "Race": "Dragonkin"
         },
         {
-            "Feature": "Darksight, 60 ft.",
+            "Feature": "Darksight, 30 ft.",
             "Race": "Ratkin"
         },
         {
-            "Feature": "Full proficiency in perception, stealth, or investigation",
+            "Feature": "Full proficiency in investigation, stealth, or enchantment",
             "Race": "Catkin"
         },
         {
-            "Feature": "Additional skill, half proficiency",
+            "Feature": "2 additional skills, half proficiency",
             "Race": "Halfling"
         },
         {
-            "Feature": "Darksight, 60 ft.",
+            "Feature": "Darksight, 30 ft.",
             "Race": "Dwarf"
         },
         {
-            "Feature": "Additional skill, half proficiency",
+            "Feature": "Full proficiency in manipulation, dodge, or comprehension",
             "Race": "Pitspawn"
         },
         {
-            "Feature": "Additional skill, half proficiency",
+            "Feature": "Full proficiency in nature, perception, or stealth",
             "Race": "Dryad"
         },
         {
-            "Feature": "Resistant to poison damage",
+            "Feature": "Full proficiency in necromancy, herbalism, or intuition",
             "Race": "Myconid"
         },
         {
@@ -1112,11 +1035,11 @@
             "Race": "Merkin"
         },
         {
-            "Feature": "Darksight, 60 ft.",
+            "Feature": "Darksight, 30 ft.",
             "Race": "Goblin"
         },
         {
-            "Feature": "Armor value is 3 by default",
+            "Feature": "Full proficiency in apotropaism, resolve, or memory",
             "Race": "Gargoyle"
         }
     ],
@@ -1190,32 +1113,86 @@
     ],
     "setting_economy_expected_qualcost": [
         {
-            "Cost": "3-10 copper pieces",
+            "Additional Cost": "--",
             "Quality": "Basic"
         },
         {
-            "Cost": "10-20 copper pieces",
+            "Additional Cost": "5-10 silver pieces",
             "Quality": "Standard"
         },
         {
-            "Cost": "40-60 copper pieces",
+            "Additional Cost": "50-70 silver pieces",
             "Quality": "Excellent"
         },
         {
-            "Cost": "1-2 silver pieces",
+            "Additional Cost": "1-10 gold pieces",
             "Quality": "Superior"
         },
         {
-            "Cost": "10-30 silver pieces",
+            "Additional Cost": "10-20 gold pieces",
             "Quality": "Heirloom"
         },
         {
-            "Cost": "30-50 gold pieces",
+            "Additional Cost": "200-250 gold pieces",
             "Quality": "Masterwork"
         },
         {
-            "Cost": "50-100 gold pieces",
+            "Additional Cost": "300-400 gold pieces",
             "Quality": "Legendary"
+        }
+    ],
+    "setting_languages": [
+        {
+            "Language": "Dasian",
+            "Usage": "The common tongue of the elven city states"
+        },
+        {
+            "Language": "Koryfian",
+            "Usage": "The common tongue of the human kingdoms"
+        },
+        {
+            "Language": "Dagral",
+            "Usage": "A common hill country language"
+        },
+        {
+            "Language": "Sirangish",
+            "Usage": "Spoken by subterranean kingdoms, especially dwarves"
+        },
+        {
+            "Language": "Solyphian",
+            "Usage": "An ancient alien tongue"
+        },
+        {
+            "Language": "Monachian",
+            "Usage": "A common language among mountain dwellers"
+        },
+        {
+            "Language": "Parochial",
+            "Usage": "A common rural dialect with variants in multiple languages"
+        },
+        {
+            "Language": "Eldritch",
+            "Usage": "The language of magic and the elder gods"
+        },
+        {
+            "Language": "Tidesong",
+            "Usage": "The common tongue of the sea kingdoms"
+        },
+        {
+            "Language": "Treespeech",
+            "Usage": "The common tongue of forest dwellers"
+        },
+        {
+            "Language": "Wayspeech",
+            "Usage": "The common tongue of taverns and travelers."
+        },
+        {
+            "Language": "Erudite",
+            "Usage": "A language spoken between scholars"
+        },
+        {
+            "Language": "Beggars Cant",
+            "Usage": "A common language used by mendicants, thieves, and fugitives"
         }
     ],
     "skill_category_descriptions": [

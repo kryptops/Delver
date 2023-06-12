@@ -8,7 +8,7 @@ from datetime import datetime
 ###
 
 jDict = {"undead":{},"faerie":{},"interloper":{},"monster":{},"automaton":{},"being":{},"daemon":{},"creature":{},"angel":{}}
-fileData = open(".\\input\\entities.txt",'r',encoding='utf-8').read()
+fileData = open(".\\input\\entities.txt",'r',encoding='utf-8').read().replace("\n                ","")
 dataByLine = fileData.splitlines()
 
 
@@ -60,6 +60,8 @@ def mkJsonStats(entityData):
 def mkJsonAdjustments(entityData):
     finalOut = {}
     for lineData in entityData:
+        if lineData == "":
+            continue
         cleanFmt = lineData.replace(" ","")
         keyValData = cleanFmt.split(":")
         finalOut[keyValData[0].lower().strip()] = keyValData[1].split(",")      
@@ -91,7 +93,8 @@ def mkJsonActions(entityData):
 def mkJsonFeatures(entityData):
     finalOut = {}
     for lineData in entityData:
-        print(lineData)
+        if lineData == "":
+            continue
         keyValData = lineData.split("(")
         finalOut["_".join(keyValData[0].lower().strip().split(" "))] = keyValData[1][:-1]      
     return finalOut  

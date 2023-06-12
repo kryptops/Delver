@@ -37,18 +37,18 @@
                 "physique": "68"
             },
             "features": {
-                "by_the_sword_shall_ye_also_perish": "Any entity that damages the avenger with a melee weapon attack must roll a saving throw against their apotropaism skill. If they fail they take half of the damage.",
+                "by_the_sword_shall_ye_also_perish": "Any entity that damages the avenger with a melee weapon attack must roll a saving throw against their Protection skill. If they fail they take half of the damage.",
                 "divine_weapon": "The avenger scores a critical hit on a 1-10 instead of a 1-5.",
                 "frenzy": "The avenger makes two divine weapon attacks at a cost of 1 action point each."
             },
             "proficiencies": {
-                "apotropaism": "72",
                 "melee heavy": "72",
                 "might": "68",
                 "necromancy": "72",
                 "olethromancy": "34",
                 "perception": "68",
-                "persuasion": "66"
+                "persuasion": "66",
+                "protection": "72"
             },
             "stats": {
                 "action": "3",
@@ -111,7 +111,6 @@
                 "unbearable_presence": "Any frightened hostile entity within 30 feet of the harbinger takes 1d8 psychic damage at the start of the harbinger\u2019s turn."
             },
             "proficiencies": {
-                "apotropaism": "70",
                 "divination": "68",
                 "enchantment": "66",
                 "illusion": "66",
@@ -120,7 +119,8 @@
                 "necromancy": "70",
                 "olethromancy": "68",
                 "perception": "68",
-                "persuasion": "66"
+                "persuasion": "66",
+                "protection": "70"
             },
             "stats": {
                 "action": "3",
@@ -174,18 +174,18 @@
                 "physique": "68"
             },
             "features": {
-                "arcane_defender": "The protector can cast Deflection, Benediction, and Rites of Binding",
+                "arcane_defender": "The protector knows Ynryl, Yrlyo, Yothlu, Yogch, Gurgch, Yntsa, Ukthu, Lmugur, Gchynolg, and Yrguoh, as well as the protection verbs Ylduth, Olmolg, Sothuth, Thlamuth, and Uthbo, and the divination verbs Thoguth, Thlucth, and Gcholg",
                 "divine_weapon": "The protector scores a critical hit on a 1-10 instead of a 1-5.",
                 "my_life_for_yours": "If an entity friendly to the protector is reduced to 0 health within 30 feet of it, the protector can restore 1d4 health to that entity. The protector must subtract the same amount from its own health."
             },
             "proficiencies": {
-                "apotropaism": "72",
                 "melee heavy": "72",
                 "might": "68",
                 "necromancy": "72",
                 "olethromancy": "34",
                 "perception": "68",
-                "persuasion": "66"
+                "persuasion": "66",
+                "protection": "72"
             },
             "stats": {
                 "action": "3",
@@ -666,7 +666,7 @@
                 "fly": "The dragon may use its movement speed to fly instead of walk",
                 "frenzy": "The black dragon makes two claw attacks at a cost of 1 action point each",
                 "in_mortal_skin": "The dragon is able to take on the form of a mortal being. It retains its features, adjustments and stats. It retains breath attacks but cannot use its bite or claw attacks and cannot fly. Its size is reduced to medium.",
-                "natural_enchanter": "The dragon can cast Inveigle, Ensnare, and Aneurysm",
+                "natural_illusionist": "The dragon knows Ynryl, Yrguoh, Ynuah, Mnunlu, Ukthu, Ulmlyu, Yolmu, Gchynolg, and Uylmlu, as well as the illusion verbs Othuth, Mnuthlu, Hlagur, Gchuj, Lmuuth, and Thunix",
                 "wary_outcast": "The dragon can subtract its deduction skill modifier from its combat order roles. It has advantage on attacks against entities that have not yet taken actions in combat. If it goes first it has 1 additional action point in the first round."
             },
             "proficiencies": {
@@ -743,7 +743,7 @@
                 "frenzy": "The dragon makes two claw attacks at a cost of 1 action point each",
                 "in_mortal_skin": "The dragon is able to take on the form of a mortal being. It retains its features, adjustments and stats. It retains breath attacks but cannot use its bite or claw attacks and cannot fly. Its size is reduced to medium.",
                 "lightning_breath": "Any entity within a 60 foot by 5 foot line in front of the dragon must roll a saving throw against their might or dodge saving throw. If they fail they take 6d8 lightning damage. If they succeed they take half the damage.",
-                "natural_diviner": "The dragon can cast Psychometry, Mind Reading, and Haruspicy",
+                "natural_diviner": "The dragon knows Ynryl, Yrguoh, Ynuah, Mnunlu, Ukthu, Ulmlyu, Yolmu, Gchynolg, and Uylmlu, as well as Thoguth, Shuthlu, Thluuj, Shuuj, Gcholg, Thlucth, and Xulnlu",
                 "scales_of_thunder": "Any entity that damages the dragon with a melee weapon attack must roll a saving throw against its own conditioning or dodge skill. If the entity fails it takes 7d6 thunder damage. If it succeeds it takes half the damage."
             },
             "proficiencies": {
@@ -1029,7 +1029,6 @@
                 "frenzy": "The assailant makes two battle cleaver attacks at a cost of 1 action point each."
             },
             "proficiencies": {
-                "apotropaism": "68",
                 "armor light": "68",
                 "conditioning": "34",
                 "dodge": "74",
@@ -1037,6 +1036,7 @@
                 "might": "74",
                 "necromancy": "68",
                 "perception": "74",
+                "protection": "68",
                 "resolve": "68"
             },
             "stats": {
@@ -1209,7 +1209,7 @@
                 "frenzy": "The dragon makes two claw attacks at a cost of 1 action point each",
                 "heart_of_the_furnace": "Any entity within 10 feet of the dragon must roll a saving throw against its resolve skill at the end of its turn. If the entity fails it must expend an action point to move at least 15 feet away from the dragon. If the entity succeeds it remains where it is but takes 4d10 fire damage. If the entity has no action points it takes half damage and must expend an action point at the start of its next turn instead.",
                 "in_mortal_skin": "The dragon is able to take on the form of a mortal being. It retains its features, adjustments and stats. It retains breath attacks but cannot use its bite or claw attacks and cannot fly. Its size is reduced to medium.",
-                "natural_enchanter": "The dragon can cast Inveigle, Interrogation, and ",
+                "natural_enchanter": "The dragon knows Ynryl, Yrguoh, Ynuah, Mnunlu, Ukthu, Ulmlyu, Yolmu, Gchynolg, and Uylmlu, as well as Yrgorg, Sothuk, Uthux, Nluxul, Xulnlu, Shutsa, and Thotholg",
                 "rage_against_the_dying_of_the_light": "If the dragon is reduced to 50 health or less, its heart of the furnace ability does 2d10 additional damage. Additionally, its fiery breath attacks cost 1 action point each for the duration of combat."
             },
             "proficiencies": {
@@ -1562,16 +1562,16 @@
                 "born_manipulator": "Twice per day the corruptor can subtract its manipulation modifier from a manipulation check.",
                 "disarming_presence": "Any entity within 15 feet of the corruptor has disadvantage on saving throws spells that the corruptor casts.",
                 "frenzy": "The corruptor makes two claw attacks at a cost of 1 action point each.",
-                "the_art_of_corruption": "The corruptor can cast Inveigle, Allure, Aphasia, Osentoski\u2019s Curse, Suspicion, Induced Loyalty, and Befuddle."
+                "the_art_of_corruption": "The corruptor knows Ynryl, Yrlyo, Yothlu, Yogch, Gurgch, Yntsa, Ukthu, Lmugur, Gchynolg, and Yrguoh, as well as the olethromancy verbs Hlaxu, and Hlulmu, as well as the enchantment verbs Hlalyu, Yrgorg, Shutsa, and Uthux."
             },
             "proficiencies": {
-                "apotropaism": "58",
                 "dodge": "69",
                 "enchantment": "73",
                 "manipulation": "73",
                 "necromancy": "26",
                 "olethromancy": "69",
-                "perception": "35"
+                "perception": "35",
+                "protection": "58"
             },
             "stats": {
                 "action": "3",
@@ -1618,18 +1618,18 @@
             },
             "features": {
                 "born_manipulator": "Once per day the imp can subtract its manipulation modifier from a manipulation check.",
-                "dabbler_in_the_dark_arts": "The imp can cast Fiery Blast and Invasive Thought",
+                "dabbler_in_the_dark_arts": "The imp knows Ynryl, Yrlyo, Yothlu, Yogch, Gurgch, Yntsa, Ukthu, and Yrguoh, as well as the olethromancy verb Ymnlu and Hlaxu",
                 "frenzy": "The imp makes two claw attacks at a cost of 1 action point each."
             },
             "proficiencies": {
-                "apotropaism": "26",
                 "dodge": "64",
                 "enchantment": "66",
                 "escamotage": "64",
                 "manipulation": "66",
                 "necromancy": "26",
                 "olethromancy": "58",
-                "perception": "32"
+                "perception": "32",
+                "protection": "26"
             },
             "stats": {
                 "action": "3",
@@ -1694,14 +1694,14 @@
                 "preytaker\u2019s_aura": "Any entity within 10 feet of the slaughterer must add its modifier to attacks on the slaughterer."
             },
             "proficiencies": {
-                "apotropaism": "38",
                 "armor heavy": "75",
                 "manipulation": "59",
                 "melee heavy": "75",
                 "might": "72",
                 "necromancy": "38",
                 "olethromancy": "25",
-                "perception": "72"
+                "perception": "72",
+                "protection": "38"
             },
             "stats": {
                 "action": "3",
@@ -1763,11 +1763,11 @@
                 "the_cold_grasp_of_death": "Any entity seeing the banshee for the first time must roll a saving throw against their resolve skill or be frightened of the banshee for 1 minute."
             },
             "proficiencies": {
-                "apotropaism": "20",
                 "conjuration": "26",
                 "enchantment": "36)",
                 "illusion": "36",
-                "necromancy": "13"
+                "necromancy": "13",
+                "protection": "20"
             },
             "stats": {
                 "action": "3",
@@ -1813,20 +1813,19 @@
                 "physique": "57"
             },
             "features": {
-                "brewer_of_potions": "The hag ",
-                "caster": "The hag can cast Inveigle, Aphasia, Ensnare, Osentoski\u2019s Curse, Mind Reading, and Haruspicy",
+                "caster": "The hag knows Ynryl, Yrlyo, Yothlu, Yogch, Gurgch, Yntsa, Ukthu, Lmugur, Rylcth and Yrguoh, as well as the necromancy verbs Othlyu and Lyusoth, as well as the olethromancy verb Ymnnlu, and the enchantment verbs Yrgorg, Nluxul, and Thotholg",
                 "frenzy": "The hag makes 2 claw attacks at a cost of 1 action point each",
-                "hag\u2019s_curse": "Any entity that wounds the hag must roll a saving throw against their apotropaism skill. If they fail half of the damage they inflict on the hag is instead inflicted on them.",
+                "hag\u2019s_curse": "Any entity that wounds the hag must roll a saving throw against their Protection skill. If they fail half of the damage they inflict on the hag is instead inflicted on them.",
                 "superior_magic_resistance": "The hag can subtract its charisma modifier of 7 from any save against arcana skills. Once per round the hag can use a counter action to reduce the damage inflicted on it by a spell by 1d8."
             },
             "proficiencies": {
-                "apotropaism": "46",
                 "divination": "68",
                 "enchantment": "72)",
                 "illusion": "72",
                 "manipulation": "72",
                 "necromancy": "46",
-                "olethromancy": "34"
+                "olethromancy": "34",
+                "protection": "46"
             },
             "stats": {
                 "action": "3",
@@ -1870,17 +1869,17 @@
                 "physique": "37"
             },
             "features": {
-                "caster": "The coven witch can cast Allure, Misfortune, Healer\u2019s Touch, and Swarm",
+                "caster": "The coven witch knows Ynryl, Yrlyo, Yothlu, Yogch, Gurgch, Yntsa, Ukthu, and Yrguoh, as well as the necromancy verbs Othlyu and Lyusoth, as well as the olethromancy verb Ymnlu",
                 "frenzy": "The coven witch makes 2 dagger attacks at a cost of 1 action point each",
                 "magic_resistance": "The coven witch can subtract her charisma modifier of 6 from any save against arcana skills"
             },
             "proficiencies": {
-                "apotropaism": "20",
                 "conjuration": "59",
                 "enchantment": "64)",
                 "illusion": "64",
                 "manipulation": "72",
-                "necromancy": "40"
+                "necromancy": "40",
+                "protection": "20"
             },
             "stats": {
                 "action": "3",
@@ -1926,21 +1925,21 @@
                 "physique": "62"
             },
             "features": {
-                "caster": "The hag can cast Inveigle, Aphasia, Ensnare, Haruspicy, Foresight, and Gorniak\u2019s Parasite",
+                "caster": "The hag knows Ynryl, Yrlyo, Yothlu, Yogch, Gurgch, Yntsa, Ukthu, Lmugur, Rylcth and Yrguoh, as well as the necromancy verbs Othlyu, Nuxymn, Nlutsa, and Lyusoth, as well as the olethromancy verbs Ymnlu and Hlulmu, and the enchantment verbs Yrgorg, Nluxul, Sothuk, and Thotholg",
                 "frenzy": "The hag makes 2 claw attacks at a cost of 1 action point each",
-                "hag\u2019s_curse": "Any entity that wounds the hag must roll a saving throw against their apotropaism skill. If they fail half of the damage they inflict on the hag is instead inflicted on them.",
+                "hag\u2019s_curse": "Any entity that wounds the hag must roll a saving throw against their Protection skill. If they fail half of the damage they inflict on the hag is instead inflicted on them.",
                 "hypnotic_appearance": "The hag appears to be very innocuous or beautiful. Any entity seeing her for the first time must roll a saving throw against their resolve skill or be charmed by her. If they have been charmed by her and then recover from the condition, they take 2d10 psychic damage.",
                 "supreme_magic_resistance": "The hag can subtract its charisma modifier of 3 from any save against arcana skills. Once per round the hag can use a counter action to reduce the damage inflicted on it by a spell by 2d8."
             },
             "proficiencies": {
-                "apotropaism": "56",
                 "divination": "68",
                 "enchantment": "75)",
                 "herbalism": "68",
                 "illusion": "75",
                 "manipulation": "75",
                 "necromancy": "56",
-                "olethromancy": "68"
+                "olethromancy": "68",
+                "protection": "56"
             },
             "stats": {
                 "action": "3",
@@ -2053,10 +2052,10 @@
                 "magic_resistance": "The ogre can subtract its charisma modifier of 3 from any check against arcana skills"
             },
             "proficiencies": {
-                "apotropaism": "39",
                 "melee heavy": "76",
                 "melee simple": "81",
-                "might": "81"
+                "might": "81",
+                "protection": "39"
             },
             "stats": {
                 "action": "3",
@@ -2096,17 +2095,17 @@
                 "physique": "47"
             },
             "features": {
-                "caster": "The selkie can cast Allure, Charm of Good Fortune, Psionic Static, and Invasive Thought",
+                "caster": "The selkie knows Ynryl, Yrguoh, Yrlyo, Yothlu, Ukthu, Ulmlyu, and Uylmlu, as well as the divination verbs thluuj and shubuth, and the protection verb Yrglmu",
                 "creature_of_the_sea": "The selkie can transform into a seal. In this form it can swim at its movement speed.",
                 "disarming_glamor": "Any entity within 5 feet that can see the selkie has disadvantage on attacks against it",
                 "magic_resistance": "The selkie can subtract its charisma modifier of 7 from any save against arcana skills"
             },
             "proficiencies": {
-                "apotropaism": "55",
                 "divination": "30",
                 "enchantment": "68)",
                 "illusion": "68",
                 "necromancy": "39",
+                "protection": "55",
                 "stealth": "47",
                 "swimming": "55"
             },
@@ -2153,17 +2152,17 @@
                 "physique": "64"
             },
             "features": {
-                "caster": "The hag can cast Inveigle, Invasive Thought, Acid Breath, Caustic Touch, and Charm of Good Fortune",
+                "caster": "The hag knows Ynryl, Yrlyo, Yothlu, Yogch, Gurgch, Yntsa, Ukthu, Lmugur, Rylcth and Yrguoh, as well as the necromancy verbs Yibuj, Olgoth, Othlyu and Lyusoth, and the olethromancy verbs Ymnnlu and Yoguk",
                 "frenzy": "The hag makes 2 claw attacks at a cost of 1 action point each",
                 "superior_magic_resistance": "The hag can subtract its charisma modifier of 7 from any save against arcana skills. Once per round the hag can use a counter action to reduce the damage inflicted on it by a spell by 1d8."
             },
             "proficiencies": {
-                "apotropaism": "46",
                 "enchantment": "72)",
                 "illusion": "36",
                 "manipulation": "72",
                 "necromancy": "23",
-                "olethromancy": "60"
+                "olethromancy": "60",
+                "protection": "46"
             },
             "stats": {
                 "action": "3",
@@ -2220,13 +2219,13 @@
                 "uncanny_stalker": "The yeti has advantage on stealth checks when in its natural habitat."
             },
             "proficiencies": {
-                "apotropaism": "39",
                 "conditioning": "77",
                 "dodge": "81",
                 "enchantment": "22)",
                 "illusion": "22",
                 "might": "81",
                 "necromancy": "39",
+                "protection": "39",
                 "running": "81",
                 "stealth": "81"
             },
@@ -2366,7 +2365,6 @@
             },
             "proficiencies": {
                 "alchemy": "83",
-                "apotropaism": "65",
                 "conjuration": "79",
                 "divination": "83",
                 "dodge": "51",
@@ -2375,7 +2373,8 @@
                 "melee heavy": "83",
                 "necromancy": "65",
                 "olethromancy": "83",
-                "perception": "51"
+                "perception": "51",
+                "protection": "65"
             },
             "stats": {
                 "action": "3",
@@ -2438,10 +2437,10 @@
                 "stinging_lash": "When the nightgaunt damages an entity with a tail lash attack, it may force that entity to roll a saving throw against that entity\u2019s own resolve or conditioning skill. If the stung entity fails it is poisoned for 15 seconds. If the entity is stung again while poisoned it is incapacitated for 1 minute or until healed of the condition."
             },
             "proficiencies": {
-                "apotropaism": "26",
                 "dodge": "38",
                 "necromancy": "26",
                 "perception": "76",
+                "protection": "26",
                 "wrestling": "76"
             },
             "stats": {
@@ -2620,10 +2619,10 @@
                 "tranquilizer_dart": "If the teithiwr damages an entity with a dart attack that entity must roll a saving throw against its own conditioning or resolve skill. If it fails it is exhausted for 1 minute. This may not be used in the same turn as the tracking dart."
             },
             "proficiencies": {
-                "apotropaism": "31",
                 "enchantment": "21",
                 "necromancy": "31",
                 "perception": "51",
+                "protection": "31",
                 "stealth": "51",
                 "tracking": "79"
             },
@@ -3395,9 +3394,9 @@
                 "grab": "If the mimic damages an entity with a tongue attack, that entity must roll a saving throw against its might or dodge skill. If that entity fails it is grappled."
             },
             "proficiencies": {
-                "apotropaism": "36",
                 "enchantment": "15",
                 "perception": "31",
+                "protection": "36",
                 "stealth": "71"
             },
             "stats": {
@@ -3577,10 +3576,10 @@
                 "rushing_slam": "If the shipbreaker moves twice, any entity in its path must roll a saving throw against its own dodge or might skill. If that entity fails, it takes 2d8  bludgeoning damage and is stunned for 15 seconds. If the entity succeeds, it takes half damage."
             },
             "proficiencies": {
-                "apotropaism": "36",
                 "enchantment": "26",
                 "necromancy": "36",
-                "perception": "32"
+                "perception": "32",
+                "protection": "36"
             },
             "stats": {
                 "action": "3",
@@ -3912,7 +3911,7 @@
                 "physique": "78"
             },
             "features": {
-                "caster": "The arch vampire can cast Allure, Ensnare, Withering Touch, Myrmication, and Gangrene.)",
+                "caster": "The arch vampire knows ynryl, yrguoh, yrlyo, yothlu, yntsa, lyuthu, rylcth, ukthu, yolmu, lmugur, and gchynolg, as well as the enchantment verbs yrgorg, uthux, nluxul, and xulnlu, as well as the necromancy verbs yibuj, olmnlu, and nlutsa.)",
                 "festering_bite": "When the arch vampire wounds an enemy with its bite, that entity must roll a saving throw against its own necromancy skill. If it fails the bite does an additional 1d10 damage at the beginning of the vampire\u2019s turn for the next 3 rounds. The entity cannot be healed for the duration. If they die because of this ability they are immune to the effects of the resuscitate spell. Cannot be used in the same round as Gory Regeneration.",
                 "gory_regeneration": "If the vampire damages an entity with a bite attack, the vampire can regain health equal to the amount on the dice up to maximum health. Cannot be used in the same round as Festering Bite.",
                 "greater_undead": "If the arch vampire dies to a weapon that doesn\u2019t count as silver and isn\u2019t buried in accordance with the local vampire slaying customs, it returns to life with half its health after 1 day.",
@@ -4301,7 +4300,7 @@
             },
             "features": {
                 "frenzy": "The werewolf make 2 claw attacks at 1 action point each",
-                "infect": "An entity the werewolf damages with a bite attack must roll a necromancy saving throw. If they fail they are infected with lycanthropy. They count as charmed by other lycanthropes, and must roll a saving throw against their insight or memory skill when they make an attack. If they fail they attack the closest non-lycanthrope instead.",
+                "infect": "An entity the werewolf damages with a bite attack must roll a necromancy saving throw. If they fail they are infected with lycanthropy.",
                 "necrotic_recovery": "If the werewolf has not been damaged for 10 seconds it recovers 1d4 health"
             },
             "proficiencies": {
@@ -4440,7 +4439,7 @@
                 "physique": "68"
             },
             "features": {
-                "caster": "The werewolf can cast Wither, Gangrene, and Injure",
+                "caster": "The hierarch knows Ynryl, Yrlyo, Yothlu, Yogch, Gurgch, Yntsa, Ukthu, Lmugur, and Yrguoh, as well as the necromancy verbs Othlyu, Yibuj, Olmnlu, and Lyusoth.",
                 "frenzy": "The werewolf make 2 claw attacks at 1 action point each",
                 "half_faerie": "The werewolf has advantage on saving throws against magic",
                 "infect": "An entity the werewolf damages with a bite attack must roll a necromancy saving throw. If they fail they are infected with lycanthropy.",
@@ -4531,7 +4530,7 @@
                 "sanity": "0"
             },
             "summary": {
-                "Description": "A creature born of unending hunger, devouring whatever it can find to eat until it gnaws the bones to splinters",
+                "Description": "A creature born of unending hunger, devouring whatever it can find to    eat until it gnaws the bones to splinters",
                 "etr": "17",
                 "healthdice": "16d12",
                 "size": "Medium",
