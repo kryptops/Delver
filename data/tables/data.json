@@ -328,6 +328,102 @@
             "Result": "100"
         }
     ],
+    "etr_calculation": [
+        {
+            "Description": "10 points of health",
+            "Modifier": "+1"
+        },
+        {
+            "Description": "10 points of mana",
+            "Modifier": "+1"
+        },
+        {
+            "Description": "1 point of armor",
+            "Modifier": "+1"
+        },
+        {
+            "Description": "1 resistance",
+            "Modifier": "+1"
+        },
+        {
+            "Description": "1 point of potential damage",
+            "Modifier": "+1"
+        },
+        {
+            "Description": "1 feature",
+            "Modifier": "+1"
+        },
+        {
+            "Description": "1 Eldritch word",
+            "Modifier": "+1"
+        },
+        {
+            "Description": "1 proficiency (half or full)",
+            "Modifier": "+1"
+        },
+        {
+            "Description": "1 condition (feature)",
+            "Modifier": "+2"
+        },
+        {
+            "Description": "1 decreased action pt cost (feature)",
+            "Modifier": "+2"
+        },
+        {
+            "Description": "1 additional action pt",
+            "Modifier": "+5"
+        },
+        {
+            "Description": "1 additional action pt (feature)",
+            "Modifier": "+5"
+        },
+        {
+            "Description": "1 increased crit range (feature)",
+            "Modifier": "+5"
+        },
+        {
+            "Description": "1 additional health die (feature)",
+            "Modifier": "+5"
+        },
+        {
+            "Description": "1 additional damage die (feature)",
+            "Modifier": "+5"
+        },
+        {
+            "Description": "1 immunity",
+            "Modifier": "+5"
+        },
+        {
+            "Description": "1 vulnerability",
+            "Modifier": "-5"
+        }
+    ],
+    "etr_calculation_simplified": [
+        {
+            "Description": "10 points of health",
+            "Modifier": "+1"
+        },
+        {
+            "Description": "10 points of mana",
+            "Modifier": "+1"
+        },
+        {
+            "Description": "1 point of armor",
+            "Modifier": "+1"
+        },
+        {
+            "Description": "1 point of potential damage",
+            "Modifier": "+1"
+        },
+        {
+            "Description": "1 feature",
+            "Modifier": "+1"
+        },
+        {
+            "Description": "1 Eldritch word",
+            "Modifier": "+1"
+        }
+    ],
     "gear_armor_detail": [
         {
             "Armor": "Hide",
@@ -651,107 +747,6 @@
             "Bonus": "6",
             "Quality": "Legendary",
             "Rarity": "Singular"
-        }
-    ],
-    "mystic_spell_table": [
-        {
-            "1st": "1",
-            "2nd": "1",
-            "3rd": "--",
-            "4th": "--",
-            "5th": "--",
-            "6th": "--",
-            "Milestone": "Milestone 0"
-        },
-        {
-            "1st": "1",
-            "2nd": "2",
-            "3rd": "--",
-            "4th": "\u00e2\u20ac\u201d",
-            "5th": "--",
-            "6th": "--",
-            "Milestone": "Milestone 1"
-        },
-        {
-            "1st": "1",
-            "2nd": "2",
-            "3rd": "1",
-            "4th": "--",
-            "5th": "--",
-            "6th": "--",
-            "Milestone": "Milestone 2"
-        },
-        {
-            "1st": "1",
-            "2nd": "2",
-            "3rd": "2",
-            "4th": "--",
-            "5th": "--",
-            "6th": "--",
-            "Milestone": "Milestone 3"
-        },
-        {
-            "1st": "1",
-            "2nd": "2",
-            "3rd": "2",
-            "4th": "1",
-            "5th": "--",
-            "6th": "--",
-            "Milestone": "Milestone 4"
-        },
-        {
-            "1st": "2",
-            "2nd": "2",
-            "3rd": "2",
-            "4th": "2",
-            "5th": "1",
-            "6th": "--",
-            "Milestone": "Milestone 5"
-        },
-        {
-            "1st": "2",
-            "2nd": "2",
-            "3rd": "2",
-            "4th": "2",
-            "5th": "1",
-            "6th": "--",
-            "Milestone": "Milestone 6"
-        },
-        {
-            "1st": "2",
-            "2nd": "2",
-            "3rd": "3",
-            "4th": "2",
-            "5th": "1",
-            "6th": "--",
-            "Milestone": "Milestone 7"
-        },
-        {
-            "1st": "2",
-            "2nd": "2",
-            "3rd": "3",
-            "4th": "3",
-            "5th": "2",
-            "6th": "--",
-            "Milestone": "Milestone 8"
-        },
-        {
-            "1st": "2",
-            "2nd": "2",
-            "3rd": "3",
-            "4th": "3",
-            "5th": "3",
-            "6th": "1",
-            "Milestone": "Milestone 9"
-        },
-        {
-            "1st": "2",
-            "2nd": "2",
-            "3rd": "3",
-            "4th": "3",
-            "5th": "3",
-            "6th": "2",
-            "Milestone": "Milestone 10"
         }
     ],
     "occupation_detail": [
@@ -1533,208 +1528,6 @@
         {
             "Expected Use Case": "Ability to recall",
             "Skill": "Memory"
-        }
-    ],
-    "sorceror_spell_table": [
-        {
-            "1st": "2",
-            "2nd": "2",
-            "3rd": "--",
-            "4th": "--",
-            "5th": "--",
-            "6th": "--",
-            "Milestone": "Milestone 0"
-        },
-        {
-            "1st": "2",
-            "2nd": "2",
-            "3rd": "1",
-            "4th": "--",
-            "5th": "--",
-            "6th": "--",
-            "Milestone": "Milestone 1"
-        },
-        {
-            "1st": "2",
-            "2nd": "2",
-            "3rd": "2",
-            "4th": "--",
-            "5th": "--",
-            "6th": "--",
-            "Milestone": "Milestone 2"
-        },
-        {
-            "1st": "3",
-            "2nd": "2",
-            "3rd": "2",
-            "4th": "--",
-            "5th": "--",
-            "6th": "--",
-            "Milestone": "Milestone 3"
-        },
-        {
-            "1st": "3",
-            "2nd": "2",
-            "3rd": "2",
-            "4th": "1",
-            "5th": "--",
-            "6th": "--",
-            "Milestone": "Milestone 4"
-        },
-        {
-            "1st": "3",
-            "2nd": "2",
-            "3rd": "2",
-            "4th": "2",
-            "5th": "--",
-            "6th": "--",
-            "Milestone": "Milestone 5"
-        },
-        {
-            "1st": "3",
-            "2nd": "2",
-            "3rd": "2",
-            "4th": "2",
-            "5th": "1",
-            "6th": "--",
-            "Milestone": "Milestone 6"
-        },
-        {
-            "1st": "3",
-            "2nd": "2",
-            "3rd": "2",
-            "4th": "2",
-            "5th": "1",
-            "6th": "--",
-            "Milestone": "Milestone 7"
-        },
-        {
-            "1st": "3",
-            "2nd": "2",
-            "3rd": "2",
-            "4th": "2",
-            "5th": "2",
-            "6th": "1",
-            "Milestone": "Milestone 8"
-        },
-        {
-            "1st": "3",
-            "2nd": "2",
-            "3rd": "2",
-            "4th": "2",
-            "5th": "3",
-            "6th": "2",
-            "Milestone": "Milestone 9"
-        },
-        {
-            "1st": "3",
-            "2nd": "2",
-            "3rd": "2",
-            "4th": "2",
-            "5th": "3",
-            "6th": "3",
-            "Milestone": "Milestone 10"
-        }
-    ],
-    "wizard_spell_table": [
-        {
-            "1st": "1",
-            "2nd": "2",
-            "3rd": "1",
-            "4th": "--",
-            "5th": "--",
-            "6th": "--",
-            "Milestone": "Milestone 0"
-        },
-        {
-            "1st": "1",
-            "2nd": "2",
-            "3rd": "2",
-            "4th": "\u00e2\u20ac\u201d",
-            "5th": "--",
-            "6th": "--",
-            "Milestone": "Milestone 1"
-        },
-        {
-            "1st": "1",
-            "2nd": "2",
-            "3rd": "3",
-            "4th": "--",
-            "5th": "--",
-            "6th": "--",
-            "Milestone": "Milestone 2"
-        },
-        {
-            "1st": "1",
-            "2nd": "3",
-            "3rd": "3",
-            "4th": "--",
-            "5th": "--",
-            "6th": "--",
-            "Milestone": "Milestone 3"
-        },
-        {
-            "1st": "1",
-            "2nd": "3",
-            "3rd": "4",
-            "4th": "1",
-            "5th": "--",
-            "6th": "--",
-            "Milestone": "Milestone 4"
-        },
-        {
-            "1st": "1",
-            "2nd": "3",
-            "3rd": "4",
-            "4th": "2",
-            "5th": "--",
-            "6th": "--",
-            "Milestone": "Milestone 5"
-        },
-        {
-            "1st": "2",
-            "2nd": "3",
-            "3rd": "4",
-            "4th": "2",
-            "5th": "--",
-            "6th": "--",
-            "Milestone": "Milestone 6"
-        },
-        {
-            "1st": "2",
-            "2nd": "3",
-            "3rd": "4",
-            "4th": "2",
-            "5th": "1",
-            "6th": "--",
-            "Milestone": "Milestone 7"
-        },
-        {
-            "1st": "2",
-            "2nd": "3",
-            "3rd": "4",
-            "4th": "3",
-            "5th": "1",
-            "6th": "--",
-            "Milestone": "Milestone 8"
-        },
-        {
-            "1st": "2",
-            "2nd": "3",
-            "3rd": "4",
-            "4th": "3",
-            "5th": "2",
-            "6th": "--",
-            "Milestone": "Milestone 9"
-        },
-        {
-            "1st": "2",
-            "2nd": "3",
-            "3rd": "4",
-            "4th": "3",
-            "5th": "2",
-            "6th": "1",
-            "Milestone": "Milestone 10"
         }
     ]
 }

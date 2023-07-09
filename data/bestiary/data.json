@@ -9,7 +9,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed",
                     "Insane",
                     "Frightened",
@@ -26,7 +26,7 @@
                     "Force",
                     "Fire"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "Necrotic"
                 ]
             },
@@ -78,7 +78,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed",
                     "Frightened",
                     "Insane",
@@ -95,7 +95,7 @@
                     "Force",
                     "Fire"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "Necrotic"
                 ]
             },
@@ -146,7 +146,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed",
                     "Insane",
                     "Frightened",
@@ -163,7 +163,7 @@
                     "Force",
                     "Fire"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "Necrotic"
                 ]
             },
@@ -216,7 +216,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Poison",
                     "Psychic"
                 ],
@@ -225,7 +225,7 @@
                     "Fire",
                     "Slashing"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -272,7 +272,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Poison"
                 ],
                 "resistances": [
@@ -280,7 +280,7 @@
                     "Fire",
                     "Slashing"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -334,7 +334,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Poison",
                     "Psychic"
                 ],
@@ -342,7 +342,7 @@
                     "Acid",
                     "Necrotic"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "Lightning"
                 ]
             },
@@ -395,7 +395,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Poison",
                     "Psychic"
                 ],
@@ -406,7 +406,7 @@
                     "Cold",
                     "Slashing"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "Lightning"
                 ]
             },
@@ -458,7 +458,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Poison",
                     "Psychic"
                 ],
@@ -466,7 +466,7 @@
                     "Acid",
                     "Necrotic"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "Lightning"
                 ]
             },
@@ -514,7 +514,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Poison",
                     "Psychic"
                 ],
@@ -522,7 +522,7 @@
                     "Acid",
                     "Necrotic"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "Lightning"
                 ]
             },
@@ -569,7 +569,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Poison",
                     "Psychic"
                 ],
@@ -578,7 +578,7 @@
                     "Fire",
                     "Slashing"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -637,7 +637,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed",
                     "Acid"
                 ],
@@ -648,7 +648,7 @@
                     "Cold",
                     "Fire"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -713,7 +713,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed",
                     "Lightning",
                     "Thunder"
@@ -725,7 +725,7 @@
                     "Cold",
                     "Fire"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -781,13 +781,13 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "None"
                 ],
                 "resistances": [
                     "None"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -840,7 +840,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "None"
                 ],
                 "resistances": [
@@ -848,7 +848,7 @@
                     "Poison",
                     "Necrotic"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "Bludgeoning"
                 ]
             },
@@ -899,13 +899,13 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "None"
                 ],
                 "resistances": [
                     "None"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -957,13 +957,13 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "None"
                 ],
                 "resistances": [
                     "Bludgeoning"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -1006,7 +1006,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "None"
                 ],
                 "resistances": [
@@ -1014,7 +1014,7 @@
                     "Piercing",
                     "Bludgeoning"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -1063,7 +1063,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Insanity",
                     "Exhausted",
                     "Frightened"
@@ -1071,7 +1071,7 @@
                 "resistances": [
                     "None"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -1120,13 +1120,13 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "None"
                 ],
                 "resistances": [
                     "None"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -1180,7 +1180,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed",
                     "Fire"
                 ],
@@ -1191,7 +1191,7 @@
                     "Cold",
                     "Acid"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -1249,13 +1249,13 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "None"
                 ],
                 "resistances": [
                     "None"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -1305,14 +1305,14 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "None"
                 ],
                 "resistances": [
                     "Bludgeoning",
                     "Slashing"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -1364,13 +1364,13 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "None"
                 ],
                 "resistances": [
                     "Bludgeoning"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -1422,14 +1422,14 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "None"
                 ],
                 "resistances": [
                     "Bludgeoning",
                     "Slashing"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -1481,7 +1481,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "None"
                 ],
                 "resistances": [
@@ -1489,7 +1489,7 @@
                     "Bludgeoning",
                     "Cold"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -1539,7 +1539,7 @@
                 "incant": "NULL"
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed",
                     "Fire"
                 ],
@@ -1548,7 +1548,7 @@
                     "Piercing",
                     "Bludgeoning"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -1598,7 +1598,7 @@
                 "incant": "NULL"
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Fire"
                 ],
                 "resistances": [
@@ -1606,7 +1606,7 @@
                     "Piercing",
                     "Bludgeoning"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -1664,7 +1664,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed",
                     "Fire"
                 ],
@@ -1676,7 +1676,7 @@
                     "Necrotic",
                     "Force"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -1728,7 +1728,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed",
                     "Bleeding",
                     "Insane",
@@ -1747,7 +1747,7 @@
                     "Fire",
                     "Psychic"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -1794,7 +1794,7 @@
                 "incant": "NULL"
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed"
                 ],
                 "resistances": [
@@ -1802,7 +1802,7 @@
                     "Slashing",
                     "Piercing"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -1852,13 +1852,13 @@
                 "incant": "NULL"
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "None"
                 ],
                 "resistances": [
                     "None"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -1906,7 +1906,7 @@
                 "incant": "NULL"
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed"
                 ],
                 "resistances": [
@@ -1914,7 +1914,7 @@
                     "Slashing",
                     "Piercing"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -1969,7 +1969,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "None"
                 ],
                 "resistances": [
@@ -1978,7 +1978,7 @@
                     "Piercing",
                     "Cold"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -2026,7 +2026,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "None"
                 ],
                 "resistances": [
@@ -2036,7 +2036,7 @@
                     "Psychic",
                     "Force"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "Fire"
                 ]
             },
@@ -2077,14 +2077,14 @@
                 "incant": "NULL"
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "None"
                 ],
                 "resistances": [
                     "Psychic",
                     "Cold"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -2133,7 +2133,7 @@
                 "incant": "NULL"
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed"
                 ],
                 "resistances": [
@@ -2141,7 +2141,7 @@
                     "Slashing",
                     "Piercing"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -2191,7 +2191,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Cold"
                 ],
                 "resistances": [
@@ -2201,7 +2201,7 @@
                     "Acid",
                     "Poison"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -2259,7 +2259,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed",
                     "Insane",
                     "Diseased",
@@ -2271,7 +2271,7 @@
                     "Piercing",
                     "Bludgeoning"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -2322,7 +2322,7 @@
                 "incant": "NULL"
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Insane",
                     "Charmed",
                     "Suffocating",
@@ -2346,7 +2346,7 @@
                     "Acid",
                     "Poison"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -2358,6 +2358,7 @@
             },
             "features": {
                 "before_i_depart": "When the divine avatar is reduced to 0 health, it does not become incapacitated. Instead, it can continue to fight until the end of the round following the round in which it was reduced to 0 health. During the next round its action points increase to 4. At the end of the following round it vanishes.",
+                "sorcerous_endowmen": "The divine avatar knows Ynryl, Yntsa, Cthyn, Yrguoh, Ynuah, Mnunlu, Ukthu, Ulmlyu, Yolmu, Gchynolg, Lmugur, and Uylmlu, as well as the divination verbs Thoguth, Gcholg, Shubuth, Thluuj, Thucth, Shuthlu, and Xulnlu as well as the olethromancy verbs Ymnlu, Bohla, Hlaxu, Gchuth, and Hlulmu, as well as the enchantment verbs Yrgorg, Thotholg, Sothuk, Hlalyu, Nluxul, Xulnlu, and Uthux as well as the necromancy verbs Nuxymn and Lyusoth",
                 "divine_intellect": "The divine avatar uses its Intellect instead of its Fortitude score to populate its melee heavy skill.",
                 "swift_retribution": "Once per round the divine avatar can use its counter action to make a divine blade attack.",
                 "the_terror_of_the_beyond": "Remaining within the presence of the divine avatar is perilous. After 2 rounds of combat, all entities within 90 feet of the avatar will take 1d6 psychic damage at the beginning of the divine avatar\u2019s turn.",
@@ -2403,7 +2404,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Insane",
                     "Charmed",
                     "Suffocating",
@@ -2418,7 +2419,7 @@
                     "Fire",
                     "Cold"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "Psychic"
                 ]
             },
@@ -2471,7 +2472,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed",
                     "Insane",
                     "Diseased",
@@ -2482,7 +2483,7 @@
                     "Psychic",
                     "Force"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -2537,13 +2538,13 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "None"
                 ],
                 "resistances": [
                     "Slashing"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -2592,7 +2593,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "None"
                 ],
                 "resistances": [
@@ -2602,7 +2603,7 @@
                     "Radiant",
                     "Fire"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -2654,7 +2655,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "AllexceptPsychic",
                     "Radiant",
                     "Force"
@@ -2662,7 +2663,7 @@
                 "resistances": [
                     "Force"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -2716,7 +2717,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "None"
                 ],
                 "resistances": [
@@ -2725,7 +2726,7 @@
                     "Acid",
                     "Poison"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "Lightning"
                 ]
             },
@@ -2773,13 +2774,13 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "None"
                 ],
                 "resistances": [
                     "Lightning"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -2832,7 +2833,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed",
                     "Insane",
                     "Diseased",
@@ -2843,7 +2844,7 @@
                     "Psychic",
                     "Force"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -2902,7 +2903,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "None"
                 ],
                 "resistances": [
@@ -2912,7 +2913,7 @@
                     "Poison",
                     "Cold"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -2968,7 +2969,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed",
                     "Prone"
                 ],
@@ -2980,7 +2981,7 @@
                     "Bludgeoning",
                     "Slashing"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -3031,7 +3032,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "None"
                 ],
                 "resistances": [
@@ -3039,7 +3040,7 @@
                     "Necrotic",
                     "Psychic"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -3085,7 +3086,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed"
                 ],
                 "resistances": [
@@ -3095,7 +3096,7 @@
                     "Bludgeoning",
                     "Piercing"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -3145,14 +3146,14 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Insanity"
                 ],
                 "resistances": [
                     "Poison",
                     "Necrotic"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -3207,7 +3208,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "None"
                 ],
                 "resistances": [
@@ -3215,7 +3216,7 @@
                     "Acid",
                     "Necrotic"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -3265,7 +3266,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "None"
                 ],
                 "resistances": [
@@ -3273,7 +3274,7 @@
                     "Poison",
                     "Necrotic"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "Bludgeoning"
                 ]
             },
@@ -3318,14 +3319,14 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "None"
                 ],
                 "resistances": [
                     "Poison",
                     "Acid"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -3373,13 +3374,13 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed"
                 ],
                 "resistances": [
                     "None"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -3433,7 +3434,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed"
                 ],
                 "resistances": [
@@ -3441,7 +3442,7 @@
                     "Cold",
                     "Force"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -3490,7 +3491,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "None"
                 ],
                 "resistances": [
@@ -3499,7 +3500,7 @@
                     "Poison",
                     "Acid"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -3549,7 +3550,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed",
                     "Grappled"
                 ],
@@ -3560,7 +3561,7 @@
                     "Bludgeoning",
                     "Piercing"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -3608,7 +3609,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "None"
                 ],
                 "resistances": [
@@ -3618,7 +3619,7 @@
                     "Fire",
                     "Cold"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -3675,7 +3676,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "None"
                 ],
                 "resistances": [
@@ -3684,7 +3685,7 @@
                     "Acid",
                     "Poison"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -3740,7 +3741,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Frightened",
                     "Charmed"
                 ],
@@ -3751,7 +3752,7 @@
                     "Necrotic",
                     "Poison"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -3812,7 +3813,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed",
                     "Prone"
                 ],
@@ -3824,7 +3825,7 @@
                     "Psychic",
                     "Force"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -3885,7 +3886,7 @@
                 "incant": "NULL"
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed",
                     "Diseased",
                     "Bleeding",
@@ -3900,7 +3901,7 @@
                     "Force",
                     "Psychic"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "Radiant"
                 ]
             },
@@ -3960,7 +3961,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed"
                 ],
                 "resistances": [
@@ -3971,7 +3972,7 @@
                     "Cold",
                     "Force"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "Radiant"
                 ]
             },
@@ -4025,7 +4026,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed",
                     "Bleeding",
                     "Diseased",
@@ -4036,7 +4037,7 @@
                     "Bludgeoning",
                     "Necrotic"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "Radiant"
                 ]
             },
@@ -4088,7 +4089,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed",
                     "Necrotic"
                 ],
@@ -4099,7 +4100,7 @@
                     "Cold",
                     "Force"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -4152,7 +4153,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed",
                     "Bleeding",
                     "Diseased",
@@ -4162,7 +4163,7 @@
                     "Piercing",
                     "Necrotic"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "Radiant",
                     "Bludgeoning",
                     "Slashing",
@@ -4209,7 +4210,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed",
                     "Diseased",
                     "Insane",
@@ -4223,7 +4224,7 @@
                     "Cold",
                     "Fire"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "Radiant"
                 ]
             },
@@ -4271,7 +4272,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed"
                 ],
                 "resistances": [
@@ -4288,7 +4289,7 @@
                     "Lightning",
                     "Thunder"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "Radiant"
                 ]
             },
@@ -4339,7 +4340,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed"
                 ],
                 "resistances": [
@@ -4356,7 +4357,7 @@
                     "Lightning",
                     "Thunder"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "Radiant"
                 ]
             },
@@ -4411,7 +4412,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed"
                 ],
                 "resistances": [
@@ -4428,7 +4429,7 @@
                     "Lightning",
                     "Thunder"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "Radiant"
                 ]
             },
@@ -4484,7 +4485,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed",
                     "Diseased",
                     "Exhausted",
@@ -4498,7 +4499,7 @@
                 "resistances": [
                     "Psychic"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "None"
                 ]
             },
@@ -4551,7 +4552,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed",
                     "Bleeding",
                     "Insane"
@@ -4564,7 +4565,7 @@
                     "Psychic",
                     "Force"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "Radiant"
                 ]
             },
@@ -4607,7 +4608,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed",
                     "Bleeding",
                     "Insane"
@@ -4619,7 +4620,7 @@
                     "Necrotic",
                     "Psychic"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "Radiant"
                 ]
             },
@@ -4660,7 +4661,7 @@
                 ]
             },
             "adjustments": {
-                "immunity": [
+                "immunities": [
                     "Charmed",
                     "Bleeding",
                     "Insane"
@@ -4672,7 +4673,7 @@
                     "Necrotic",
                     "Psychic"
                 ],
-                "vulnerability": [
+                "vulnerabilities": [
                     "Radiant"
                 ]
             },
