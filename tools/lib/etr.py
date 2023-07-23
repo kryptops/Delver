@@ -71,16 +71,19 @@ class etrLib():
         for actionOpt in damageOpts:
             for field in damageOpts[actionOpt]:
                 if "d" in field:
-                    dice = field.split(" ")[0].split("d")
-                    if dice[0] == '':
-                        dice[0] = 1
-                    diceNum = int(dice[0])
-                    damagePrimary = dice[1].split("+")
-                    if len(damagePrimary) > 1:
-                        if damagePrimary[1] == '':
-                            damagePrimary[1] = '0'
-                    diceSize = int(damagePrimary[0])
-                    damagePts+=((diceNum*diceSize)+int(damagePrimary[1]))
+                    try:
+                        dice = field.split(" ")[0].split("d")
+                        if dice[0] == '':
+                            dice[0] = 1
+                        diceNum = int(dice[0])
+                        damagePrimary = dice[1].split("+")
+                        if len(damagePrimary) > 1:
+                            if damagePrimary[1] == '':
+                                damagePrimary[1] = '0'
+                        diceSize = int(damagePrimary[0])
+                        damagePts+=((diceNum*diceSize)+int(damagePrimary[1]))
+                    except:
+                        continue
         return damagePts*modifier
             
     def calcFeatures(self,tableToUse):
@@ -153,7 +156,7 @@ class etrLib():
         apPts = 0
         apData = self.etrTarget["stats"]["action"]
         if int(apData) > 3:
-            apPts = apData-3
+            apPts = int(apData)-3
         return apPts*modifier
             
     def calcAPIncrease(self,tableToUse):
